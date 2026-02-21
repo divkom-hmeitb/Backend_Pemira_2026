@@ -1,24 +1,26 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
 generator client {
-  provider = "prisma-client-js"
+  provider        = "prisma-client-js"
+  previewFeatures = ["multiSchema"] // Aktifkan fitur ini
 }
 
 datasource db {
-  provider = "cockroachdb"
+  provider = "postgresql"
+  schemas  = ["public"]
 }
 
 model Voter {
-  id              String   @id @default(cuid())
-  nim             String   @unique
-  name            String
-  email           String?
-  token           String   @unique
-  isVoteCakahim   Boolean  @default(false)
-  isVoteCasenat   Boolean  @default(false)
-  createdAt       DateTime @default(now())
-  updatedAt       DateTime @updatedAt
+  id             Int      @id @default(autoincrement())
+  name           String
+  nim            String   @unique
+  token          String   @unique 
+  isVoteCakahim  Boolean  @default(false)
+  kahimChoice    String?  
+  isVoteCasenat  Boolean  @default(false)
+  senatorChoice  String?  
+  votedDate      String?  
+  votedTime      String?  
+  cloudinaryUrl  String?  
+  createdAt      DateTime @default(now())
 
-  @@map("voters")
+  @@schema("public") // Sekarang ini tidak akan error lagi
 }

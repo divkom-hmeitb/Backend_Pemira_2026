@@ -37,3 +37,179 @@ C:\Users\lapto\OneDrive\Documents\Pemira\Backend-PEMIRA-HME-ITB-2026-main\server
 → 239   const voter = await prisma.voter.findFirst(
 Too many database connections opened: This cluster has reached its Request Unit limit for the month and is now disabled. You can increase your resource limits to continue using this cluster.
 [2026-02-19T17:38:39.917Z] [API_LOGIN] Full error: {"code":"P2037","meta":{"modelName":"Voter","driverAdapterError":{"name":"DriverAdapterError","cause":{"originalCode":"53300","originalMessage":"This cluster has reached its Request Unit limit for the month and is now disabled. You can increase your resource limits to continue using this cluster.","kind":"TooManyConnections","cause":"This cluster has reached its Request Unit limit for the month and is now disabled. You can increase your resource limits to continue using this cluster."}}},"clientVersion":"7.3.0","name":"PrismaClientKnownRequestError"}
+[2026-02-20T13:29:39.316Z] === SERVER STARTING ===
+[2026-02-20T13:29:39.332Z] Environment loaded
+[2026-02-20T13:29:39.454Z] Creating database pool...
+[2026-02-20T13:29:39.457Z] Database client created
+[2026-02-20T13:29:39.458Z] Adding JSON parser...
+[2026-02-20T13:29:39.460Z] JSON parser added
+[2026-02-20T13:29:39.461Z] [STARTUP] API_TOKEN loaded: YES (value: LOCAL_DEV_TOKEN)
+[2026-02-20T13:29:39.463Z] [STARTUP] All environment variables: ["API_TOKEN"]
+[2026-02-20T13:29:39.472Z] Backend running on http://localhost:5000
+[2026-02-20T13:43:29.411Z] [POST] /api/login
+[2026-02-20T13:43:29.415Z] [REQUEST_BODY] {"username":"13223010","pass":"QZ1VNS","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T13:43:29.418Z] [API_LOGIN] Received request
+[2026-02-20T13:43:29.419Z] [API_LOGIN] Body: {"username":"13223010","pass":"QZ1VNS","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T13:43:29.421Z] [API_LOGIN] Has token in body: true
+[2026-02-20T13:43:29.423Z] [API_LOGIN] Attempting to query database
+[2026-02-20T13:43:29.423Z] Attempting to find voter with NIM: 13223010
+[2026-02-20T13:43:30.495Z] [API_LOGIN] Caught error in try block
+[2026-02-20T13:43:30.500Z] [API_LOGIN] Error message: 
+Invalid `prisma.voter.findFirst()` invocation:
+
+
+Too many database connections opened: This cluster has reached its Request Unit limit for the month and is now disabled. You can increase your resource limits to continue using this cluster.
+[2026-02-20T13:43:30.503Z] [API_LOGIN] Full error: {"code":"P2037","meta":{"modelName":"Voter","driverAdapterError":{"name":"DriverAdapterError","cause":{"originalCode":"53300","originalMessage":"This cluster has reached its Request Unit limit for the month and is now disabled. You can increase your resource limits to continue using this cluster.","kind":"TooManyConnections","cause":"This cluster has reached its Request Unit limit for the month and is now disabled. You can increase your resource limits to continue using this cluster."}}},"clientVersion":"7.3.0","name":"PrismaClientKnownRequestError"}
+[2026-02-20T14:07:40.690Z] === SERVER STARTING ===
+[2026-02-20T14:07:40.697Z] Environment loaded
+[2026-02-20T14:07:40.773Z] Creating database pool...
+[2026-02-20T14:07:40.777Z] Database client created
+[2026-02-20T14:07:40.779Z] Adding JSON parser...
+[2026-02-20T14:07:40.780Z] JSON parser added
+[2026-02-20T14:07:40.781Z] [STARTUP] API_TOKEN loaded: YES (value: LOCAL_DEV_TOKEN)
+[2026-02-20T14:07:40.783Z] [STARTUP] All environment variables: ["API_TOKEN"]
+[2026-02-20T14:07:40.788Z] Backend running on http://localhost:5000
+[2026-02-20T14:08:05.038Z] [POST] /api/login
+[2026-02-20T14:08:05.039Z] [REQUEST_BODY] {"username":"13223010","pass":"QZ1VNS","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:08:05.041Z] [API_LOGIN] Received request
+[2026-02-20T14:08:05.045Z] [API_LOGIN] Body: {"username":"13223010","pass":"QZ1VNS","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:08:05.047Z] [API_LOGIN] Has token in body: true
+[2026-02-20T14:08:05.051Z] [API_LOGIN] Attempting to query database
+[2026-02-20T14:08:05.052Z] Attempting to find voter with NIM: 13223010
+[2026-02-20T14:08:06.149Z] Voter found: {"id":1,"name":"Gregorius Yoga Robianto","nim":"13223010","token":"QZ1VNS","isVoteCakahim":false,"kahimChoice":null,"isVoteCasenat":false,"senatorChoice":null,"votedDate":null,"votedTime":null,"cloudinaryUrl":null,"createdAt":"2026-02-20T13:37:24.156Z"}
+[2026-02-20T14:08:06.150Z] Login successful for voter: Gregorius Yoga Robianto
+[2026-02-20T14:09:29.686Z] [GET] /api/live_count
+[2026-02-20T14:14:20.879Z] [OPTIONS] /api/login
+[2026-02-20T14:14:20.881Z] [REQUEST_BODY] 
+[2026-02-20T14:14:20.888Z] [POST] /api/login
+[2026-02-20T14:14:20.892Z] [REQUEST_BODY] {"username":"13223010","pass":"QZ1VNS","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:14:20.896Z] [API_LOGIN] Received request
+[2026-02-20T14:14:20.898Z] [API_LOGIN] Body: {"username":"13223010","pass":"QZ1VNS","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:14:20.900Z] [API_LOGIN] Has token in body: true
+[2026-02-20T14:14:20.902Z] [API_LOGIN] Attempting to query database
+[2026-02-20T14:14:20.903Z] Attempting to find voter with NIM: 13223010
+[2026-02-20T14:14:21.235Z] Voter found: {"id":1,"name":"Gregorius Yoga Robianto","nim":"13223010","token":"QZ1VNS","isVoteCakahim":false,"kahimChoice":null,"isVoteCasenat":false,"senatorChoice":null,"votedDate":null,"votedTime":null,"cloudinaryUrl":null,"createdAt":"2026-02-20T13:37:24.156Z"}
+[2026-02-20T14:14:21.237Z] Login successful for voter: Gregorius Yoga Robianto
+[2026-02-20T14:14:21.245Z] [OPTIONS] /api/is_vote
+[2026-02-20T14:14:21.247Z] [REQUEST_BODY] 
+[2026-02-20T14:14:21.250Z] [POST] /api/is_vote
+[2026-02-20T14:14:21.251Z] [REQUEST_BODY] {"username":"13223010","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:08.151Z] [OPTIONS] /api/login
+[2026-02-20T14:15:08.152Z] [REQUEST_BODY] 
+[2026-02-20T14:15:08.154Z] [POST] /api/login
+[2026-02-20T14:15:08.155Z] [REQUEST_BODY] {"username":"13223010","pass":"QZ1VNS","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:08.157Z] [API_LOGIN] Received request
+[2026-02-20T14:15:08.159Z] [API_LOGIN] Body: {"username":"13223010","pass":"QZ1VNS","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:08.160Z] [API_LOGIN] Has token in body: true
+[2026-02-20T14:15:08.161Z] [API_LOGIN] Attempting to query database
+[2026-02-20T14:15:08.162Z] Attempting to find voter with NIM: 13223010
+[2026-02-20T14:15:08.365Z] Voter found: {"id":1,"name":"Gregorius Yoga Robianto","nim":"13223010","token":"QZ1VNS","isVoteCakahim":false,"kahimChoice":null,"isVoteCasenat":false,"senatorChoice":null,"votedDate":null,"votedTime":null,"cloudinaryUrl":null,"createdAt":"2026-02-20T13:37:24.156Z"}
+[2026-02-20T14:15:08.367Z] Login successful for voter: Gregorius Yoga Robianto
+[2026-02-20T14:15:08.372Z] [OPTIONS] /api/is_vote
+[2026-02-20T14:15:08.373Z] [REQUEST_BODY] 
+[2026-02-20T14:15:08.377Z] [POST] /api/is_vote
+[2026-02-20T14:15:08.378Z] [REQUEST_BODY] {"username":"13223010","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:26.828Z] [OPTIONS] /api/save_attendance
+[2026-02-20T14:15:26.833Z] [POST] /api/save_attendance
+[2026-02-20T14:15:27.728Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:27.729Z] [REQUEST_BODY] 
+[2026-02-20T14:15:27.733Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:27.735Z] [REQUEST_BODY] 
+[2026-02-20T14:15:27.738Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:27.740Z] [REQUEST_BODY] 
+[2026-02-20T14:15:27.748Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:27.751Z] [REQUEST_BODY] {"username":"13223010","category":"ketua","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:27.756Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:27.761Z] [REQUEST_BODY] 
+[2026-02-20T14:15:27.767Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:27.781Z] [REQUEST_BODY] {"username":"13223010","category":"senator","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:27.790Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:27.791Z] [REQUEST_BODY] {"username":"13223010","category":"ketua","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:27.799Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:27.801Z] [REQUEST_BODY] {"username":"13223010","category":"senator","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:35.287Z] [OPTIONS] /api/vote
+[2026-02-20T14:15:35.288Z] [REQUEST_BODY] 
+[2026-02-20T14:15:35.290Z] [POST] /api/vote
+[2026-02-20T14:15:35.292Z] [REQUEST_BODY] {"username":"13223010","pilihan":"01","token":"LOCAL_DEV_TOKEN","category":"senator"}
+[2026-02-20T14:15:37.934Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:37.942Z] [REQUEST_BODY] 
+[2026-02-20T14:15:37.949Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:37.950Z] [REQUEST_BODY] 
+[2026-02-20T14:15:37.953Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:37.954Z] [REQUEST_BODY] 
+[2026-02-20T14:15:37.959Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:37.961Z] [REQUEST_BODY] 
+[2026-02-20T14:15:37.966Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:37.967Z] [REQUEST_BODY] {"username":"13223010","category":"ketua","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:37.972Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:37.977Z] [REQUEST_BODY] {"username":"13223010","category":"ketua","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:37.982Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:37.986Z] [REQUEST_BODY] {"username":"13223010","category":"senator","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:37.991Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:37.993Z] [REQUEST_BODY] {"username":"13223010","category":"senator","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:41.389Z] [OPTIONS] /api/vote
+[2026-02-20T14:15:41.390Z] [REQUEST_BODY] 
+[2026-02-20T14:15:41.393Z] [POST] /api/vote
+[2026-02-20T14:15:41.394Z] [REQUEST_BODY] {"username":"13223010","pilihan":"01","token":"LOCAL_DEV_TOKEN","category":"ketua"}
+[2026-02-20T14:15:44.110Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:44.113Z] [REQUEST_BODY] 
+[2026-02-20T14:15:44.123Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:44.129Z] [REQUEST_BODY] 
+[2026-02-20T14:15:44.131Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:44.133Z] [REQUEST_BODY] 
+[2026-02-20T14:15:44.137Z] [OPTIONS] /api/is_vote_specific
+[2026-02-20T14:15:44.139Z] [REQUEST_BODY] 
+[2026-02-20T14:15:44.142Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:44.144Z] [REQUEST_BODY] {"username":"13223010","category":"ketua","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:44.151Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:44.154Z] [REQUEST_BODY] {"username":"13223010","category":"ketua","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:44.169Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:44.172Z] [REQUEST_BODY] {"username":"13223010","category":"senator","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:15:44.181Z] [POST] /api/is_vote_specific
+[2026-02-20T14:15:44.184Z] [REQUEST_BODY] {"username":"13223010","category":"senator","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T14:39:03.298Z] === SERVER STARTING ===
+[2026-02-20T14:39:03.307Z] Environment loaded
+[2026-02-20T14:39:03.398Z] Creating database pool...
+[2026-02-20T14:39:03.401Z] Database client created
+[2026-02-20T14:39:03.403Z] Adding JSON parser...
+[2026-02-20T14:39:03.404Z] JSON parser added
+[2026-02-20T14:39:03.404Z] [STARTUP] API_TOKEN loaded: YES (value: LOCAL_DEV_TOKEN)
+[2026-02-20T14:39:03.405Z] [STARTUP] All environment variables: ["API_TOKEN"]
+[2026-02-20T14:39:03.412Z] Backend running on http://localhost:5000
+[2026-02-20T15:03:11.995Z] [GET] /
+[2026-02-20T15:03:28.527Z] [GET] /
+[2026-02-20T15:03:28.551Z] [GET] /loginMsg.js
+[2026-02-20T15:03:28.552Z] [REQUEST_BODY] 
+[2026-02-20T15:03:28.556Z] [GET] /cgi/get.cgi
+[2026-02-20T15:09:28.000Z] === SERVER STARTING ===
+[2026-02-20T15:09:28.019Z] Environment loaded
+[2026-02-20T15:09:28.153Z] Creating database pool...
+[2026-02-20T15:09:28.157Z] Database client created
+[2026-02-20T15:09:28.160Z] Adding JSON parser...
+[2026-02-20T15:09:28.161Z] JSON parser added
+[2026-02-20T15:09:28.162Z] [STARTUP] API_TOKEN loaded: YES (value: LOCAL_DEV_TOKEN)
+[2026-02-20T15:09:28.163Z] [STARTUP] All environment variables: ["API_TOKEN"]
+[2026-02-20T15:09:28.175Z] Backend running on http://localhost:5000
+[2026-02-20T15:14:52.039Z] [POST] /api/login
+[2026-02-20T15:14:52.042Z] [REQUEST_BODY] {"username":"13223010","pass":"ZX7NNN","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T15:14:52.044Z] [API_LOGIN] Received request
+[2026-02-20T15:14:52.044Z] [API_LOGIN] Body: {"username":"13223010","pass":"ZX7NNN","token":"LOCAL_DEV_TOKEN"}
+[2026-02-20T15:14:52.048Z] [API_LOGIN] Has token in body: true
+[2026-02-20T15:14:52.050Z] [API_LOGIN] Attempting to query database
+[2026-02-20T15:14:52.051Z] Attempting to find voter with NIM: 13223010
+[2026-02-20T15:14:53.120Z] Voter found: {"id":1,"name":"Gregorius Yoga Robianto","nim":"13223010","token":"ZX7NNN","isVoteCakahim":false,"kahimChoice":null,"isVoteCasenat":false,"senatorChoice":null,"votedDate":null,"votedTime":null,"cloudinaryUrl":null,"createdAt":"2026-02-20T15:09:43.805Z"}
+[2026-02-20T15:14:53.122Z] Login successful for voter: Gregorius Yoga Robianto
+[2026-02-21T01:04:50.489Z] [GET] /
+[2026-02-21T01:05:00.799Z] [GET] /
+[2026-02-21T01:05:00.804Z] [GET] /loginMsg.js
+[2026-02-21T01:05:00.806Z] [REQUEST_BODY] 
+[2026-02-21T01:05:00.811Z] [GET] /cgi/get.cgi
+[2026-02-21T01:43:55.700Z] === SERVER STARTING ===
+[2026-02-21T01:43:55.717Z] Environment loaded
+[2026-02-21T01:43:55.833Z] Creating database pool...
+[2026-02-21T01:43:55.836Z] Database client created
+[2026-02-21T01:43:55.838Z] Adding JSON parser...
+[2026-02-21T01:43:55.839Z] JSON parser added
+[2026-02-21T01:43:55.840Z] [STARTUP] API_TOKEN loaded: YES (value: LOCAL_DEV_TOKEN)
+[2026-02-21T01:43:55.841Z] [STARTUP] All environment variables: ["API_TOKEN"]
+[2026-02-21T01:43:55.851Z] Backend running on http://localhost:5000

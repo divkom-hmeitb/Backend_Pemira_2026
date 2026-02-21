@@ -2,11 +2,19 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 
-// Log to file
-const logFile = path.join(__dirname, 'server-debug.log');
+// Log to file (disable on serverless)
+const isServerless = Boolean(process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME);
+const logFile = isServerless ? null : path.join(__dirname, 'server-debug.log');
 function log(...args) {
   const msg = `[${new Date().toISOString()}] ${args.map(a => typeof a === 'object' ? JSON.stringify(a) : a).join(' ')}\n`;
-  fs.appendFileSync(logFile, msg);
+  if (logFile) {
+    try {
+      fs.appendFileSync(logFile, msg);
+    } catch (err) {
+      // Avoid crashing in read-only environments
+      console.warn('[LOG_WRITE_FAILED]', err.message);
+    }
+  }
   console.log(...args);
 }
 
@@ -22,7 +30,12 @@ const { Pool } = require('pg');
 
 log('Creating database pool...');
 const app = express();
-const pool = new Pool({ connectionString: process.env.DATABASE_URL });
+const pool = new Pool({
+  connectionString: process.env.DATABASE_URL,
+  ssl: {
+    rejectUnauthorized: false
+  }
+});
 const adapter = new PrismaPg(pool);
 const prisma = new PrismaClient({ adapter });
 log('Database client created');
