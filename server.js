@@ -269,10 +269,10 @@ app.post('/api/login', async (req, res) => {
       return res.status(401).json({ message: "NIM atau Token salah" });
     }
 
-    if (voter.isVoteCakahim && voter.isVoteCasenat) {
-      log('Voter already voted');
-      return res.status(403).json({ message: "Anda sudah menggunakan hak suara!" });
-    }
+    // if (voter.isVoteCakahim && voter.isVoteCasenat) {
+    //   log('Voter already voted');
+    //   return res.status(403).json({ message: "Anda sudah menggunakan hak suara!" });
+    // }
 
     log('Login successful for voter:', voter.name);
     return res.json({ ID: voter.nim, nama: voter.name });
