@@ -45,8 +45,7 @@ async function runBroadcast() {
       },
     });
 
-    // Pre-read BG.png to avoid file I/O in loops
-    const bgImageBuffer = fs.readFileSync('./BG.png');
+
 
     const generateToken = (length = 6) => {
       const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
@@ -92,11 +91,7 @@ async function runBroadcast() {
             to: student.email,
             subject: '[PENTING] Token Voting Pemira HME ITB 2026',
             html: personalizedEmail,
-            attachments: [{
-              filename: 'BG.png',
-              content: bgImageBuffer,
-              cid: 'bg-image'
-            }]
+
           });
 
           console.log(`✅ Sukses: ${student.nim}`);
