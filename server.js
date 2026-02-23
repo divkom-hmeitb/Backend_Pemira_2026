@@ -132,10 +132,6 @@ app.post('/login', async (req, res) => {
       });
     }
 
-    if (voter.isVoted) {
-      return res.status(403).json({ error: "Anda sudah menggunakan hak suara!" });
-    }
-
     // Voter Berhasil Login
     res.json({ 
       message: "Verifikasi Berhasil", 
