@@ -1,0 +1,36 @@
+// Pemira HME ITB - Election System Database Schema
+// This defines the structure for Senators and Kahim voting
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "cockroachdb"
+}
+
+// The candidates running for Senator or Kahim
+model Candidate {
+  id        Int      @id @default(sequence())
+  name      String
+  type      String // "SENATOR" or "KAHIM"
+  votes     Vote[]
+  createdAt DateTime @default(now())
+}
+
+// The students eligible to vote (DPT - Daftar Pemilih Tetap)
+model Voter {
+  nim       String   @id
+  email     String   @unique
+  hasVoted  Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+// The actual votes cast
+model Vote {
+  id          Int       @id @default(sequence())
+  candidateId Int
+  candidate   Candidate @relation(fields: [candidateId], references: [id])
+  createdAt   DateTime  @default(now())
+}

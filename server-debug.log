@@ -213,3 +213,24 @@ Too many database connections opened: This cluster has reached its Request Unit 
 [2026-02-21T01:43:55.840Z] [STARTUP] API_TOKEN loaded: YES (value: LOCAL_DEV_TOKEN)
 [2026-02-21T01:43:55.841Z] [STARTUP] All environment variables: ["API_TOKEN"]
 [2026-02-21T01:43:55.851Z] Backend running on http://localhost:5000
+[2026-02-21T20:26:02.897Z] [GET] /
+[2026-02-21T20:26:19.337Z] [GET] /
+[2026-02-21T20:26:19.345Z] [GET] /loginMsg.js
+[2026-02-21T20:26:19.346Z] [REQUEST_BODY] 
+[2026-02-21T20:26:19.353Z] [GET] /cgi/get.cgi
+[2026-02-23T03:44:09.529Z] [GET] /
+[2026-02-23T03:44:25.954Z] [GET] /
+[2026-02-23T03:44:25.959Z] [GET] /loginMsg.js
+[2026-02-23T03:44:25.960Z] [REQUEST_BODY] 
+[2026-02-23T03:44:25.964Z] [GET] /cgi/get.cgi
+[2026-02-23T03:44:26.030Z] [POST] /boaform/formPing
+[2026-02-23T03:51:39.158Z] === SERVER STARTING ===
+[2026-02-23T03:51:39.166Z] Environment loaded
+[2026-02-23T03:51:39.252Z] Creating database pool...
+[2026-02-23T03:51:39.256Z] Database client created
+[2026-02-23T03:51:39.256Z] Adding JSON parser...
+[2026-02-23T03:51:39.258Z] JSON parser added
+[2026-02-23T03:51:39.259Z] [STARTUP] API_TOKEN loaded: YES (value: LOCAL_DEV_TOKEN)
+[2026-02-23T03:51:39.260Z] [STARTUP] All environment variables: ["API_TOKEN"]
+[2026-02-23T03:51:39.265Z] Backend running on http://localhost:5000
+[2026-02-23T03:52:41.171Z] [GET] /api/live_count

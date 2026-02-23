@@ -1,0 +1,26 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["multiSchema"] // Aktifkan fitur ini
+}
+
+datasource db {
+  provider = "postgresql"
+  schemas  = ["public"]
+}
+
+model Voter {
+  id             Int      @id @default(autoincrement())
+  name           String
+  nim            String   @unique
+  token          String   @unique 
+  isVoteCakahim  Boolean  @default(false)
+  kahimChoice    String?  
+  isVoteCasenat  Boolean  @default(false)
+  senatorChoice  String?  
+  votedDate      String?  
+  votedTime      String?  
+  cloudinaryUrl  String?  
+  createdAt      DateTime @default(now())
+
+  @@schema("public") // Sekarang ini tidak akan error lagi
+}

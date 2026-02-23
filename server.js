@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const path = require('path');
 const fs = require('fs');
 
@@ -30,6 +31,7 @@ const { Pool } = require('pg');
 
 log('Creating database pool...');
 const app = express();
+app.use(cors());
 const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
   ssl: {
