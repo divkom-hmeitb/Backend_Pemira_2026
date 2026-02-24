@@ -1,12 +1,5267 @@
 [
-  { 
-    "nim": "13223010", 
-    "name": "Gregorius Yoga Robianto", 
-    "email": "13223010@mahasiswa.itb.ac.id" 
+  {
+    "nim": "13224001",
+    "name": "Yozia Gedalya Marcho Ginting",
+    "email": "13224001@mahasiswa.itb.ac.id"
   },
-  { 
-    "nim": "13223040", 
-    "name": "Muhammad Najmusaqib", 
-    "email": "13223040@mahasiswa.itb.ac.id" 
+  {
+    "nim": "13224002",
+    "name": "Jeva Steve Sinaga",
+    "email": "13224002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224003",
+    "name": "Benedictus Kenneth Setiadi",
+    "email": "13224003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224004",
+    "name": "Afdhal Razaq",
+    "email": "13224004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224005",
+    "name": "nadine gabe ulina sianturi",
+    "email": "13224005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224006",
+    "name": "Kyrie Eleison Jacob Pakpahan",
+    "email": "13224006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224008",
+    "name": "Muhammad Fadhil Abyan",
+    "email": "13224008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224009",
+    "name": "Krishna Ananda Tariono",
+    "email": "13224009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224010",
+    "name": "Hezkiel Tarutung Harianja",
+    "email": "13224010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224014",
+    "name": "Raegrand Archamadeus",
+    "email": "13224014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224015",
+    "name": "Hufnagel Ruben Lenard Situmorang",
+    "email": "13224015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224016",
+    "name": "Bismar Alwi Khadavi",
+    "email": "13224016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224017",
+    "name": "M Faza Dzil Ikram",
+    "email": "13224017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224018",
+    "name": "Geraldo Son Luther Silalahi",
+    "email": "13224018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224021",
+    "name": "Khairina Safira Nurazizah",
+    "email": "13224021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224022",
+    "name": "Alkindi Bintang Akhsan",
+    "email": "13224022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224024",
+    "name": "Timothy Yves Halim",
+    "email": "13224024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224025",
+    "name": "Fauzan Akmal Rabbani",
+    "email": "13224025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224026",
+    "name": "Juliansyah Putra Jalinda",
+    "email": "13224026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224028",
+    "name": "Isnaya Zalfa Kamila",
+    "email": "13224028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224030",
+    "name": "Rusydi Noor Abdurrahman",
+    "email": "13224030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224032",
+    "name": "Kenneth Harrison Siswanto",
+    "email": "13224032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224035",
+    "name": "Nicholas Keandre",
+    "email": "13224035@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224037",
+    "name": "Ihsan Arya Pradipta",
+    "email": "13224037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224039",
+    "name": "Ahmad Akhdan Tristan Salman",
+    "email": "13224039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224043",
+    "name": "Christian Artaban Setiawan",
+    "email": "13224043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224044",
+    "name": "audrin naufal fikri frederick",
+    "email": "13224044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224045",
+    "name": "Muhammad Zaki Azzamy Syauqi",
+    "email": "13224045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224046",
+    "name": "Akira Kenji Tanaya",
+    "email": "13224046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224047",
+    "name": "Farras Fuady Hakim",
+    "email": "13224047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224048",
+    "name": "Murtadha Al-Askari",
+    "email": "13224048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224050",
+    "name": "Aqilah Safitri Sjarif",
+    "email": "13224050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224051",
+    "name": "Akursio Kidung Gamel Balapradhana",
+    "email": "13224051@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224052",
+    "name": "Yudhi Tsabit Izhharul Mulki",
+    "email": "13224052@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224053",
+    "name": "Luis Matthew Sembiring",
+    "email": "13224053@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224054",
+    "name": "Thoriq Al Maududi",
+    "email": "13224054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224055",
+    "name": "Arthur Cornelius Bangun",
+    "email": "13224055@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224056",
+    "name": "Jevan Abiellie",
+    "email": "13224056@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224057",
+    "name": "Mhd. Khalil Alfaiz Hutasuhut",
+    "email": "13224057@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224058",
+    "name": "Imam Azkaziyan Ahmad",
+    "email": "13224058@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224059",
+    "name": "Aisyah Dahayu Shabirah",
+    "email": "13224059@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224061",
+    "name": "Azka Muhammad Aqwam",
+    "email": "13224061@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224062",
+    "name": "Dzaky Raihan Nugraha",
+    "email": "13224062@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224063",
+    "name": "Jeswinder Singh",
+    "email": "13224063@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224064",
+    "name": "Ali Ahmad Izza Wahyudi",
+    "email": "13224064@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224065",
+    "name": "Joe Steven Hardy",
+    "email": "13224065@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224066",
+    "name": "Hamzah Abdul Rahim",
+    "email": "13224066@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224067",
+    "name": "Marco Yeremia Simanjuntak",
+    "email": "13224067@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224070",
+    "name": "Aziiz Adityatama",
+    "email": "13224070@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224072",
+    "name": "Arvin Fauzan Badri",
+    "email": "13224072@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224074",
+    "name": "Rafa Satria Pratama",
+    "email": "13224074@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224075",
+    "name": "Nadya Faulina",
+    "email": "13224075@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224076",
+    "name": "I Ketut Satya Adnyana",
+    "email": "13224076@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224077",
+    "name": "Fayyadh Ramadhan",
+    "email": "13224077@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224078",
+    "name": "Maria Vanessa Soritan",
+    "email": "13224078@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224079",
+    "name": "Muhammad Rafi Fathia Dzaky",
+    "email": "13224079@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224080",
+    "name": "Hasan Al Mutawakkil",
+    "email": "13224080@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224081",
+    "name": "Davina Alya Shakira",
+    "email": "13224081@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224082",
+    "name": "Muhammad Adli Syauqi",
+    "email": "13224082@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224084",
+    "name": "Salman Santika Abdullah",
+    "email": "13224084@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224085",
+    "name": "Angelika Nainggolan",
+    "email": "13224085@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224086",
+    "name": "Kristheoren Clifford",
+    "email": "13224086@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224087",
+    "name": "Muhammad Ammar Hanif",
+    "email": "13224087@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224089",
+    "name": "Nahidl Denhaq Syaha",
+    "email": "13224089@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224090",
+    "name": "Syifa Fauziah Prasetyo",
+    "email": "13224090@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224092",
+    "name": "Andreas Nainggolan",
+    "email": "13224092@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224093",
+    "name": "Muhammad Adnan Habibi Handoyo",
+    "email": "13224093@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224094",
+    "name": "Abdullah Athaaya Fauzan",
+    "email": "13224094@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224095",
+    "name": "Alfatihah Nurmahmudi Wijaya",
+    "email": "13224095@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224097",
+    "name": "Muhammad Isnan Basya Ramdhani",
+    "email": "13224097@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224098",
+    "name": "Michelle",
+    "email": "13224098@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224100",
+    "name": "Kanessi Cleo Kinanti",
+    "email": "13224100@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224101",
+    "name": "Abdullah",
+    "email": "13224101@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224102",
+    "name": "Rafa Zahran Ramadhan",
+    "email": "13224102@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224103",
+    "name": "Jonathan Chandra",
+    "email": "13224103@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224105",
+    "name": "zulfan hanani",
+    "email": "13224105@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224107",
+    "name": "Celvin Ello Xaverino Silitonga",
+    "email": "13224107@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224108",
+    "name": "Christian Jonathan Hutajulu",
+    "email": "13224108@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224109",
+    "name": "R. Damar Prawiro Kusumo Sudradjat",
+    "email": "13224109@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13224110",
+    "name": "Achmad Rayyan Hawari",
+    "email": "13224110@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024002",
+    "name": "Aqila Fairuz Ghifari",
+    "email": "18024002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024003",
+    "name": "Nabil Ilman Fahreza",
+    "email": "18024003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024004",
+    "name": "Ammar Abdurrahim",
+    "email": "18024004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024005",
+    "name": "Toya Beningtan Yulianto",
+    "email": "18024005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024006",
+    "name": "Aldito Zahran Habibi",
+    "email": "18024006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024007",
+    "name": "Mohamad Rafi Gunawan",
+    "email": "18024007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024008",
+    "name": "Khairul arief rahman",
+    "email": "18024008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024009",
+    "name": "Muhammad Tafarel Wira Haryanto",
+    "email": "18024009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024011",
+    "name": "Theresia Rismauly Hasibuan",
+    "email": "18024011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024012",
+    "name": "Dominikus david",
+    "email": "18024012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024013",
+    "name": "Puspa Rani Ritonga",
+    "email": "18024013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024014",
+    "name": "Akbar Rasya Zulhakim",
+    "email": "18024014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024016",
+    "name": "Muchammad Asshiddiqi",
+    "email": "18024016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024017",
+    "name": "Daisyah Zahr Hafidzah Hidayat",
+    "email": "18024017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024018",
+    "name": "Heskiel Gesprito Hutabarat",
+    "email": "18024018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024019",
+    "name": "Calla Firdausy Ghaliyah",
+    "email": "18024019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024020",
+    "name": "Mikael Yoga Vikramadeva",
+    "email": "18024020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024021",
+    "name": "Raffi Ilham Ramadhan",
+    "email": "18024021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024022",
+    "name": "Panji Mufli Zahid",
+    "email": "18024022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024023",
+    "name": "Ryan Aditya Syahreza",
+    "email": "18024023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024024",
+    "name": "Muhammad Mikhail Rayn Fatahillah",
+    "email": "18024024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024025",
+    "name": "Aryandi Fachrurizal",
+    "email": "18024025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024026",
+    "name": "Brigita Mariana Sinaga",
+    "email": "18024026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024027",
+    "name": "Dava Nafeed Akbar",
+    "email": "18024027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024029",
+    "name": "Anggita Shabrina Lumembang Arso",
+    "email": "18024029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024030",
+    "name": "Muhammad Luthfi Ardiansyah",
+    "email": "18024030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024032",
+    "name": "Arif Rahmansyah Putra",
+    "email": "18024032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024033",
+    "name": "Timoty Andreika Panjaitan",
+    "email": "18024033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024036",
+    "name": "Fauzan Syap Ariansyah",
+    "email": "18024036@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024037",
+    "name": "Bhisma Sutan Danusiri",
+    "email": "18024037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024038",
+    "name": "Hilmi Izzuddin Rayyan",
+    "email": "18024038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024040",
+    "name": "Abiyyu Ariz Wibowo",
+    "email": "18024040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024042",
+    "name": "Muhammad Ikram",
+    "email": "18024042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024043",
+    "name": "Agung Sedayu Andria Wardoyo",
+    "email": "18024043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024045",
+    "name": "Khalisa Farzana",
+    "email": "18024045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024046",
+    "name": "Danandaya Raditya Rozano Prakoeswa",
+    "email": "18024046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024048",
+    "name": "Nathanael Pramanugraha",
+    "email": "18024048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024049",
+    "name": "Rafael Unedo Purba",
+    "email": "18024049@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024050",
+    "name": "Magenta Pasha Wiraguna",
+    "email": "18024050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024051",
+    "name": "Naufal Ijlal Malik",
+    "email": "18024051@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024052",
+    "name": "Reno Rahman Wirayuda",
+    "email": "18024052@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024055",
+    "name": "Azka Zhafran Hindradata",
+    "email": "18024055@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024056",
+    "name": "Rasyid Abdurrahman",
+    "email": "18024056@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024057",
+    "name": "Rafa Aaqilah Deaunta",
+    "email": "18024057@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024058",
+    "name": "Reyza Arsyabinaya Pramesti",
+    "email": "18024058@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024059",
+    "name": "azkalia rafadila",
+    "email": "18024059@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024060",
+    "name": "Arfa Asfaisy Hafiza",
+    "email": "18024060@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024061",
+    "name": "Ariel Christo Antonio Sembiring",
+    "email": "18024061@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024063",
+    "name": "Samuel Yoel Isliko",
+    "email": "18024063@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18024064",
+    "name": "Muhamad Rakha Raditya",
+    "email": "18024064@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324001",
+    "name": "Natasya Nagita",
+    "email": "18324001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324003",
+    "name": "Aulin Olivia Musyaffa",
+    "email": "18324003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324005",
+    "name": "Bernadette Ayla Wehilani",
+    "email": "18324005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324006",
+    "name": "Nada Aretha Liany",
+    "email": "18324006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324008",
+    "name": "Nasywa Naila Adi Shahia",
+    "email": "18324008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324010",
+    "name": "Melanada Mulia Nusantari",
+    "email": "18324010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324012",
+    "name": "Audrey Nabiilah Putri",
+    "email": "18324012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324013",
+    "name": "Andika Nugraha",
+    "email": "18324013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324014",
+    "name": "Jeanette Kallista Lim",
+    "email": "18324014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324015",
+    "name": "Gabrielle Garcia Hardanta Prakoso",
+    "email": "18324015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324017",
+    "name": "Joanne Vincell Aurin",
+    "email": "18324017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18324020",
+    "name": "Paul Giddalti Hiyanto",
+    "email": "18324020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223001",
+    "name": "Kenzie Ahmad Wistara",
+    "email": "13223001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223002",
+    "name": "Muhammad Faiz Naufal",
+    "email": "13223002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223003",
+    "name": "Agita Trinanda Ilmi",
+    "email": "13223003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223004",
+    "name": "Kenneth Alexander Jim's",
+    "email": "13223004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223005",
+    "name": "Alisha Tazkia Anugraha",
+    "email": "13223005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223006",
+    "name": "A. A. Gede Aditya Virgadinata",
+    "email": "13223006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223007",
+    "name": "Afif Zalfaa Pavian Hidayat",
+    "email": "13223007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223008",
+    "name": "Rafi Ahmad Fabiannaufal",
+    "email": "13223008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223009",
+    "name": "Reinhard Iven Winnata",
+    "email": "13223009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223013",
+    "name": "Kiyo Lee Tiono",
+    "email": "13223013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223014",
+    "name": "Muhammad Nabil Raihan",
+    "email": "13223014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223015",
+    "name": "Nisrina Azzah Atiqoh",
+    "email": "13223015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223016",
+    "name": "Gregory Salman Ahmad",
+    "email": "13223016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223017",
+    "name": "Rania Imaduddin",
+    "email": "13223017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223018",
+    "name": "Rafi Ihsan Alfathin",
+    "email": "13223018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223019",
+    "name": "Habibie Muhammad Ghifari",
+    "email": "13223019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223020",
+    "name": "Muhammad Ihsan",
+    "email": "13223020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223021",
+    "name": "Thurfah Naura Qolbi",
+    "email": "13223021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223022",
+    "name": "Joenathan Luther Sihotang",
+    "email": "13223022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223023",
+    "name": "Abdul Aziz",
+    "email": "13223023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223024",
+    "name": "Muhammad 'Afif Yusuf",
+    "email": "13223024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223025",
+    "name": "Aliyah Vida Rahmah",
+    "email": "13223025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223026",
+    "name": "Usaid Falahuddin",
+    "email": "13223026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223027",
+    "name": "Fajar Asyraf R.",
+    "email": "13223027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223028",
+    "name": "Dhani Surya WIbowo Putra",
+    "email": "13223028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223030",
+    "name": "Dahayu Aqila Suseno",
+    "email": "13223030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223031",
+    "name": "Naia Prihallysta",
+    "email": "13223031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223032",
+    "name": "Darren Johan",
+    "email": "13223032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223033",
+    "name": "R. Pandu Davabimo Witama",
+    "email": "13223033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223034",
+    "name": "Muhammad Dzaki Farhansyah",
+    "email": "13223034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223035",
+    "name": "Nabil Zaka Diya Rismawan",
+    "email": "13223035@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223036",
+    "name": "Maghryza Milchan Fayumi",
+    "email": "13223036@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223037",
+    "name": "Abdurrahman Malik Albisyari",
+    "email": "13223037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223038",
+    "name": "Kyla Asha Mulani",
+    "email": "13223038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223039",
+    "name": "Dimas Anggiat",
+    "email": "13223039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223040",
+    "name": "Mohammad Najmutstsaqib",
+    "email": "13223040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223041",
+    "name": "Miftah Fauzaan Maryono",
+    "email": "13223041@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223042",
+    "name": "WIlliam Enrico Sembiring",
+    "email": "13223042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223043",
+    "name": "Irfan Imanudin",
+    "email": "13223043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223044",
+    "name": "Fakhri Rasyud Irawan",
+    "email": "13223044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223045",
+    "name": "Achmad Fadhil",
+    "email": "13223045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223046",
+    "name": "Raehan Fitrozidke",
+    "email": "13223046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223047",
+    "name": "Fahim Muhammad Kanigoro",
+    "email": "13223047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223048",
+    "name": "WIlliam Anthony",
+    "email": "13223048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223049",
+    "name": "Rifki Afriadi",
+    "email": "13223049@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223050",
+    "name": "Imam Ahmad Abdullah",
+    "email": "13223050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223051",
+    "name": "Rizmi Ahmad Raihan",
+    "email": "13223051@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223052",
+    "name": "Rifqi Bambang Ar Rasyid",
+    "email": "13223052@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223053",
+    "name": "Abu Dzar Al Ghifari",
+    "email": "13223053@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223054",
+    "name": "Andreas Adyatma Aryadeksa",
+    "email": "13223054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223055",
+    "name": "Tita Athalia Cahyadewi",
+    "email": "13223055@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223056",
+    "name": "Raihan Maulana",
+    "email": "13223056@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223057",
+    "name": "Muhammad Zia Alby Wafaq",
+    "email": "13223057@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223058",
+    "name": "Abidah Izdihar Dzakiyyah",
+    "email": "13223058@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223059",
+    "name": "Nabila Luna Pramudita Rashad",
+    "email": "13223059@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223060",
+    "name": "Faiq Dzun Naja Rahman",
+    "email": "13223060@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223061",
+    "name": "Johanna Sekar Mumpuni",
+    "email": "13223061@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223062",
+    "name": "Ahmad Rafie Pradhana",
+    "email": "13223062@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223063",
+    "name": "Mubarok Syamil",
+    "email": "13223063@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223064",
+    "name": "Adiva Rakhshanda Almashim",
+    "email": "13223064@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223065",
+    "name": "Bryan R. Ryanto Purba",
+    "email": "13223065@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223066",
+    "name": "Muhammad Fauzan Syarif",
+    "email": "13223066@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223067",
+    "name": "Vico A. C. Silalahi",
+    "email": "13223067@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223068",
+    "name": "Muhammad Adhisurya Putra",
+    "email": "13223068@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223069",
+    "name": "Josh Adams",
+    "email": "13223069@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223070",
+    "name": "Anthony Alden Satriabudi",
+    "email": "13223070@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223071",
+    "name": "Yayat Nurhidayat",
+    "email": "13223071@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223072",
+    "name": "Benedictus Alfin Geraldine Baya",
+    "email": "13223072@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223073",
+    "name": "Fahrian Maulana Fazry Nuriady",
+    "email": "13223073@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223074",
+    "name": "Adrian Sami Pratama",
+    "email": "13223074@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223075",
+    "name": "Dharma Anargya Jowandy",
+    "email": "13223075@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223076",
+    "name": "Gabriel tae Louk",
+    "email": "13223076@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223077",
+    "name": "Amirul Akhyar Hamid",
+    "email": "13223077@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223078",
+    "name": "Dzikri Ash Shidqi",
+    "email": "13223078@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223079",
+    "name": "Faris Riza Maulana",
+    "email": "13223079@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223080",
+    "name": "Afrizal Hendra Pratama",
+    "email": "13223080@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223081",
+    "name": "Kaditya Rakan Pandyansa",
+    "email": "13223081@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223082",
+    "name": "Valerine Amoret Bonggakarua",
+    "email": "13223082@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223083",
+    "name": "Nor Athirah Syahril",
+    "email": "13223083@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223084",
+    "name": "Glody Marcello Adrinov Sitorus",
+    "email": "13223084@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223085",
+    "name": "Nashwa Rahmadian Prastika",
+    "email": "13223085@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223086",
+    "name": "Sendi Nurul Akmal",
+    "email": "13223086@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223087",
+    "name": "Azizah Savira Mecca",
+    "email": "13223087@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223088",
+    "name": "Lionel Naythan Liu",
+    "email": "13223088@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223089",
+    "name": "Oktovian Joshua Eryawan",
+    "email": "13223089@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223090",
+    "name": "Zakki Habib Romadhon",
+    "email": "13223090@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223091",
+    "name": "Deven Zie Manuela Sitanggang",
+    "email": "13223091@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223092",
+    "name": "Davin Gunawan",
+    "email": "13223092@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223093",
+    "name": "Muhammad Azka Naufan",
+    "email": "13223093@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223094",
+    "name": "Muammar Qadafi",
+    "email": "13223094@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223095",
+    "name": "Muhammad Falih Rosyidi",
+    "email": "13223095@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223096",
+    "name": "Ramadhan Abhinawa Herawanto",
+    "email": "13223096@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223097",
+    "name": "Muhammad Luthfii Alghazali",
+    "email": "13223097@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223099",
+    "name": "Bennaya Jonathan Raja Partogi Siagian",
+    "email": "13223099@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223100",
+    "name": "Sarah Beatrix Sitorus",
+    "email": "13223100@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223101",
+    "name": "Aditya Al Farizi",
+    "email": "13223101@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223102",
+    "name": "Naufal Ridho Wicaksono",
+    "email": "13223102@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223103",
+    "name": "Reynaldo Nicholas Sianturi",
+    "email": "13223103@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223104",
+    "name": "Angelina Wahyuni S. T.",
+    "email": "13223104@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223105",
+    "name": "Rafif Reinhart Al Aflah",
+    "email": "13223105@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223106",
+    "name": "Raden Bagus Mohammad Galih E. L.",
+    "email": "13223106@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223107",
+    "name": "Abdul Hakim Yafi",
+    "email": "13223107@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223108",
+    "name": "Mikhael Anacta Jogi Sinaga",
+    "email": "13223108@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223109",
+    "name": "Faiz Arkan Waskitazaman",
+    "email": "13223109@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223110",
+    "name": "Julian Benedict",
+    "email": "13223110@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223111",
+    "name": "Ayman Rafsanjani Natawijaya",
+    "email": "13223111@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223112",
+    "name": "Ahmad Fatur Rohman",
+    "email": "13223112@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223113",
+    "name": "Kennard Hezekiah Montoya",
+    "email": "13223113@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223114",
+    "name": "Dede Firman",
+    "email": "13223114@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223115",
+    "name": "Galih Muhammad Syah Athaya",
+    "email": "13223115@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223116",
+    "name": "Anindita Hana Wardhani",
+    "email": "13223116@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223117",
+    "name": "Hanif Muflih Hidayat",
+    "email": "13223117@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13223118",
+    "name": "Saputra Yudika Marpaung",
+    "email": "13223118@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023001",
+    "name": "Mona Raissa Yusmizhalianty",
+    "email": "18023001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023002",
+    "name": "Hauzan Aiman Suryapriadi",
+    "email": "18023002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023003",
+    "name": "Abednego Ozoralael S.",
+    "email": "18023003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023004",
+    "name": "Haekal Alif Alfarisy",
+    "email": "18023004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023006",
+    "name": "Faiq Suhail",
+    "email": "18023006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023007",
+    "name": "Zakwan Hanifah",
+    "email": "18023007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023008",
+    "name": "Juan Lovel Tarigan",
+    "email": "18023008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023009",
+    "name": "Jovinto Derrick Siahaan",
+    "email": "18023009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023010",
+    "name": "Tazkia Syahira Ardhiakara",
+    "email": "18023010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023011",
+    "name": "Robi Salam",
+    "email": "18023011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023012",
+    "name": "Kevin Johansen",
+    "email": "18023012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023013",
+    "name": "Yardan Ghaniy Alvadi",
+    "email": "18023013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023014",
+    "name": "Rafie Naufal Halimi",
+    "email": "18023014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023015",
+    "name": "Lintang Suminar",
+    "email": "18023015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023016",
+    "name": "Radhitia Syafi Alfardzan",
+    "email": "18023016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023017",
+    "name": "Raynee Soe Putra",
+    "email": "18023017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023019",
+    "name": "Bonaventura Aditya J. H. P.",
+    "email": "18023019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023020",
+    "name": "Shahibul Faraj",
+    "email": "18023020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023021",
+    "name": "Nahiza Hazim Valensi M.",
+    "email": "18023021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023022",
+    "name": "Hanif Muhammad Assegaf",
+    "email": "18023022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023023",
+    "name": "Adhindamuthia Ramadhiani",
+    "email": "18023023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023024",
+    "name": "Zaki Hilman Yahya",
+    "email": "18023024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023025",
+    "name": "Fathur Rahman Arahkhal",
+    "email": "18023025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023026",
+    "name": "Kenzie Nauval Putra Friyuana",
+    "email": "18023026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023027",
+    "name": "Emir Rasyadi Mas Avicena",
+    "email": "18023027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023028",
+    "name": "Laksita Naryama Aptasavira",
+    "email": "18023028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023029",
+    "name": "Bimo Arya Bhagawanta",
+    "email": "18023029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023030",
+    "name": "Safarudin Ali Topan",
+    "email": "18023030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023031",
+    "name": "Dyah Ayu Safitri",
+    "email": "18023031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023032",
+    "name": "Welfin F. A. Tarigan",
+    "email": "18023032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023033",
+    "name": "Rifat Farrel Alvishta",
+    "email": "18023033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023034",
+    "name": "Miftah Farid",
+    "email": "18023034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023035",
+    "name": "Mohammad Abiyyu Ikhsan",
+    "email": "18023035@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023036",
+    "name": "Christian Fernando Asterias M.",
+    "email": "18023036@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023037",
+    "name": "Rifqi Danang Ardhiawan",
+    "email": "18023037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023038",
+    "name": "Joyceline Audrey",
+    "email": "18023038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023039",
+    "name": "Taqidito Ilham Pratama",
+    "email": "18023039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023040",
+    "name": "Della Cyntia Putri Sibagariang",
+    "email": "18023040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023041",
+    "name": "Syauqi Mujaddid Al Bayani",
+    "email": "18023041@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023042",
+    "name": "Vincentius Ivan Liustyanto",
+    "email": "18023042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023043",
+    "name": "Gabriella Surjana",
+    "email": "18023043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023044",
+    "name": "Rafi Irham Andrian",
+    "email": "18023044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023045",
+    "name": "Syifannissa Nafisalia Kuncoro",
+    "email": "18023045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023047",
+    "name": "Yusuf Aji Nugraha",
+    "email": "18023047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023048",
+    "name": "Gita Larasati",
+    "email": "18023048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023049",
+    "name": "Putri Adelia Padmadewi",
+    "email": "18023049@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023050",
+    "name": "Nadya Araminta Firji",
+    "email": "18023050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023051",
+    "name": "Denis Fathullah Pratama",
+    "email": "18023051@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023053",
+    "name": "Naufal Azka Ramadhan",
+    "email": "18023053@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023054",
+    "name": "Muhammad Dzakwan Musfajra",
+    "email": "18023054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023055",
+    "name": "Irwindra Nevan Estiadi",
+    "email": "18023054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023056",
+    "name": "Achmad Arians Fadhil",
+    "email": "18023056@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023057",
+    "name": "Alvira Rahmawati",
+    "email": "18023057@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023058",
+    "name": "Haura Hafizha Harryson",
+    "email": "18023058@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023059",
+    "name": "Muhammad Atha Basuki",
+    "email": "18023059@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023061",
+    "name": "Hogitomo Haidar Parikesit",
+    "email": "18023061@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18023062",
+    "name": "Syauqi Muhammad Faith",
+    "email": "18023062@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323001",
+    "name": "Revina Natasari Devi",
+    "email": "18323001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323002",
+    "name": "Zahra Faiza Fithriah",
+    "email": "18323002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323003",
+    "name": "Aleta Edna Jessalyn",
+    "email": "18323003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323004",
+    "name": "Adicahya Sukma Kencana Putra S.",
+    "email": "18323004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323005",
+    "name": "Denaya Diva Insani",
+    "email": "18323005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323006",
+    "name": "Stefanus Billie Orvin",
+    "email": "18323006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323007",
+    "name": "Ananda Puteri Gitasya",
+    "email": "18323007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323008",
+    "name": "FIlipus Putra Atmadja",
+    "email": "18323008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323009",
+    "name": "Monika Edith Amadea Purba",
+    "email": "18323009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323011",
+    "name": "Kheitaro Ameniel Gugun M.",
+    "email": "18323011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323013",
+    "name": "Nathan Jeremia Barus",
+    "email": "18323013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323014",
+    "name": "Nadia Azwa Wibowo",
+    "email": "18323014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323015",
+    "name": "Mikael Adrian Widagdo",
+    "email": "18323015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323016",
+    "name": "Michael Liebing",
+    "email": "18323016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323017",
+    "name": "Jonathan Otto",
+    "email": "18323017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323019",
+    "name": "Firda Dian Yudha Az Zahra",
+    "email": "18323019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323020",
+    "name": "Keisya Andretta Basoeki",
+    "email": "18323020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323021",
+    "name": "Abdullah Al Ash Shidiq K.",
+    "email": "18323021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323022",
+    "name": "Samantha Benedicta",
+    "email": "18323022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323023",
+    "name": "Teresa Dillen Tshia",
+    "email": "18323023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323024",
+    "name": "Felicia Kannitha Ruth",
+    "email": "18323024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323025",
+    "name": "Elisabeth Erica Christanto",
+    "email": "18323025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18323026",
+    "name": "Jerry Alexander Tjoa",
+    "email": "18323026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222001",
+    "name": "Raga Fatwa Ikhwani",
+    "email": "13222001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222002",
+    "name": "Riswandha Mashuri",
+    "email": "13222002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222003",
+    "name": "Mohamad Adam Febrian",
+    "email": "13222003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222004",
+    "name": "Rafid Ahmad Rabbani",
+    "email": "13222004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222005",
+    "name": "Nabiel Aufi Danendra",
+    "email": "13222005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222006",
+    "name": "Andikawati Puteri Widjaja",
+    "email": "13222006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222007",
+    "name": "Shalawatul Shafa",
+    "email": "13222007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222008",
+    "name": "Alghoza Hamdani",
+    "email": "13222008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222009",
+    "name": "Deandy Fabiano",
+    "email": "13222009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222010",
+    "name": "Muhammad Sheva Hermanto Putra",
+    "email": "13222010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222011",
+    "name": "Salsabilla Putri Aprillia",
+    "email": "13222011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222012",
+    "name": "Randy Revaldo Pratama",
+    "email": "13222012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222013",
+    "name": "Muhammad Shafa Sauditya",
+    "email": "13222013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222014",
+    "name": "Mohammad Gabriel Hammam",
+    "email": "13222014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222015",
+    "name": "Aira Ardistya Akbarsyah",
+    "email": "13222015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222016",
+    "name": "Muhammad Rafi Ad Darajat",
+    "email": "13222016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222017",
+    "name": "Aditya Ridwan Indrasta",
+    "email": "13222017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222018",
+    "name": "Dennis Hubert",
+    "email": "13222018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222019",
+    "name": "Gemuruh Bagus Wirayudha",
+    "email": "13222019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222020",
+    "name": "Matthew Wijaya Chandra",
+    "email": "13222020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222021",
+    "name": "I Made Medika Surya Widyana Mas",
+    "email": "13222021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222022",
+    "name": "Izzuddin Ar Rofi'",
+    "email": "13222022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222023",
+    "name": "Naufal Abrar",
+    "email": "13222023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222024",
+    "name": "Wilbert Jay Hydro",
+    "email": "13222024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222025",
+    "name": "Naufal Afiq Muzaffar",
+    "email": "13222025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222026",
+    "name": "Fedry Firman Anugerah",
+    "email": "13222026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222027",
+    "name": "Hanif Ryaas Adiwidya",
+    "email": "13222027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222028",
+    "name": "Vincentius bhatara Ekaputra",
+    "email": "13222028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222029",
+    "name": "Rifananda Bahagia",
+    "email": "13222029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222030",
+    "name": "Kenny Aprian Duallo",
+    "email": "13222030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222031",
+    "name": "Muhammad Ahza Bayanaka Wijanarko",
+    "email": "13222031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222032",
+    "name": "Samuel Partogi Hasiholan Panjaitan",
+    "email": "13222032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222034",
+    "name": "Luqman Ramadhan",
+    "email": "13222034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222035",
+    "name": "Marvin Bryan Juanethan",
+    "email": "13222035@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222036",
+    "name": "Andhika Narawangsa Susilo",
+    "email": "13222036@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222037",
+    "name": "Erik Dania Putra",
+    "email": "13222037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222038",
+    "name": "Tiffany Angel Darmadi",
+    "email": "13222038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222039",
+    "name": "Justin Aprio Chan",
+    "email": "13222039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222040",
+    "name": "Wafi Abiyyu Yasin",
+    "email": "13222040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222041",
+    "name": "Kania Ika Putri",
+    "email": "13222041@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222042",
+    "name": "Bramantio Ananda",
+    "email": "13222042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222043",
+    "name": "Joanna Alicia Tombeg",
+    "email": "13222043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222044",
+    "name": "Nicholas Darren",
+    "email": "13222044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222045",
+    "name": "Azra Haikal Fahlevi",
+    "email": "13222045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222046",
+    "name": "Nur Dawam Abdan Syakuro",
+    "email": "13222046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222047",
+    "name": "Marasi Joel Silvano",
+    "email": "13222047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222048",
+    "name": "Irfan Nurhakim Hilmi",
+    "email": "13222048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222049",
+    "name": "John Ruben Saragi",
+    "email": "13222049@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222050",
+    "name": "Muhammad Yoga Putrapratama",
+    "email": "13222050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222051",
+    "name": "Zaidan Rizqi Akbar",
+    "email": "13222051@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222052",
+    "name": "Velin Intani Animesa",
+    "email": "13222052@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222053",
+    "name": "Raifal Abyan Rosaldi",
+    "email": "13222053@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222054",
+    "name": "Muhammad Azfar Almuzammil Yusup",
+    "email": "13222054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222055",
+    "name": "Michael Reynaldi Tamara",
+    "email": "13222055@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222056",
+    "name": "Stewart Chauniago",
+    "email": "13222056@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222057",
+    "name": "Akmal Hafizh Musyaffa",
+    "email": "13222057@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222058",
+    "name": "John Sinalsal P. Saragih",
+    "email": "13222058@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222059",
+    "name": "James Patrick",
+    "email": "13222059@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222060",
+    "name": "Raphael Nathaniel Hartanto",
+    "email": "13222060@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222061",
+    "name": "William Gerald Briandelo",
+    "email": "13222061@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222062",
+    "name": "Muhammad Yusuf Al Azmi",
+    "email": "13222062@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222063",
+    "name": "Zulfan Andria Putranto",
+    "email": "13222063@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222064",
+    "name": "Muhammad Eiros Dante",
+    "email": "13222064@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222065",
+    "name": "Ihsan Hidayat Rafi",
+    "email": "13222065@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222066",
+    "name": "Arvin Nathaniel Tjong",
+    "email": "13222066@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222067",
+    "name": "Goldwin Sonick Wijaya Thaha",
+    "email": "13222067@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222068",
+    "name": "Syaugi Adhia Feriyaldi",
+    "email": "13222068@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222069",
+    "name": "Nasywa Fadhilah Putri",
+    "email": "13222069@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222070",
+    "name": "Farrel Iskandar Leghari",
+    "email": "13222070@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222071",
+    "name": "Kholida Rezki Khoiriah",
+    "email": "13222071@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222072",
+    "name": "Fitraka Ario Sutansyah",
+    "email": "13222072@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222073",
+    "name": "Karunia Muda Kurniawan",
+    "email": "13222073@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222074",
+    "name": "Muhammad Dhanni Firdaus",
+    "email": "13222074@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222075",
+    "name": "Haykal Alviantara Surya",
+    "email": "13222075@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222076",
+    "name": "Heidi Schan Andriana",
+    "email": "13222076@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222077",
+    "name": "Muhammad Fadhli",
+    "email": "13222077@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222078",
+    "name": "F.X. Ivan Heryunoro",
+    "email": "13222078@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222079",
+    "name": "Priya Qolbu Dhiya'an Amar",
+    "email": "13222079@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222080",
+    "name": "Daffa Roihan Ramadhani",
+    "email": "13222080@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222081",
+    "name": "Mahardhika Putra Adipratama",
+    "email": "13222081@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222082",
+    "name": "Olivia Alexandra Silalahi",
+    "email": "13222082@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222083",
+    "name": "Kean Malik Aji Santoso",
+    "email": "13222083@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222084",
+    "name": "Chessy Anggraini Putri Hendarsyah",
+    "email": "13222084@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222085",
+    "name": "Victor Hugo Goldwin",
+    "email": "13222085@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222086",
+    "name": "Filbert Garciano",
+    "email": "13222086@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222087",
+    "name": "Rafi Ananta Alden",
+    "email": "13222087@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222088",
+    "name": "Afardhan Putra Fashadani",
+    "email": "13222088@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222089",
+    "name": "Osamah Waliyuddin Azhar",
+    "email": "13222089@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222090",
+    "name": "Geraldo Valentino De Jesus",
+    "email": "13222090@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222091",
+    "name": "Stefen Sutandi",
+    "email": "13222091@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222092",
+    "name": "Bianca Chiquita Irene Tawang",
+    "email": "13222092@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222093",
+    "name": "Mohammad Ari Alexander Aziz",
+    "email": "13222093@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222094",
+    "name": "Frances Louisa Constantine",
+    "email": "13222094@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222095",
+    "name": "Nusaiba El Qonitat",
+    "email": "13222095@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222096",
+    "name": "Farhan Revandi Suhirman",
+    "email": "13222096@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222097",
+    "name": "Pierre Gavin Tan",
+    "email": "13222097@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222098",
+    "name": "Kennard Benaya Manli",
+    "email": "13222098@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222099",
+    "name": "Roger Supriyanto",
+    "email": "13222099@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222100",
+    "name": "Rubi Naufal Tiandito",
+    "email": "13222100@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222101",
+    "name": "Wahyu Putra Almaya",
+    "email": "13222101@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222102",
+    "name": "Poggy Macello Gultom",
+    "email": "13222102@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222103",
+    "name": "Aldeo Malta Junior",
+    "email": "13222103@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222104",
+    "name": "Avila Khadhibyan",
+    "email": "13222104@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222105",
+    "name": "Didan Attaric",
+    "email": "13222105@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222106",
+    "name": "Jason Theo Salim",
+    "email": "13222106@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222107",
+    "name": "Fairuz Apuilla Rahagi",
+    "email": "13222107@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222108",
+    "name": "Avila Axel Mulyadi",
+    "email": "13222108@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222109",
+    "name": "Nurul Annisa",
+    "email": "13222109@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222110",
+    "name": "Ahmad Ramadhan",
+    "email": "13222110@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222111",
+    "name": "Ibrahim Hanif Mulyana",
+    "email": "13222111@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222112",
+    "name": "Hifzhi Dinullah",
+    "email": "13222112@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222113",
+    "name": "Chobirudin Jamil Yudaprawira",
+    "email": "13222113@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222114",
+    "name": "Muhammad Farhan",
+    "email": "13222114@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222115",
+    "name": "Fachri Ananda Hauzan",
+    "email": "13222115@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222116",
+    "name": "Muhammad Shafiyuddin Mihradi",
+    "email": "13222116@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222117",
+    "name": "Kayla Pramudio Bagas Aryasatya",
+    "email": "13222117@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222118",
+    "name": "Ananda Aldio Arlando",
+    "email": "13222118@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222119",
+    "name": "Klovinki Purnama",
+    "email": "13222119@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222120",
+    "name": "Muhammad Zuhair Fikri",
+    "email": "13222120@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222120",
+    "name": "Muhammad Fajar Maulana",
+    "email": "13222120@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022001",
+    "name": "Farel Ihsan",
+    "email": "18022001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022002",
+    "name": "Erlinta Putri Nariswari",
+    "email": "18022002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022003",
+    "name": "Evan Arif Ariawan",
+    "email": "18022003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022004",
+    "name": "Alya Damayanti Rivani",
+    "email": "18022004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022005",
+    "name": "William Aldenito Siagian",
+    "email": "18022005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022006",
+    "name": "Nazwa Fauziah Hanum",
+    "email": "18022006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022007",
+    "name": "Aditia Fortuna",
+    "email": "18022007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022008",
+    "name": "Safwan Arshad",
+    "email": "18022008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022009",
+    "name": "Sulthan Antar Aulia Yunus",
+    "email": "18022009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022010",
+    "name": "Eric Stevan Immanuel Nasution",
+    "email": "18022010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022011",
+    "name": "Andrew William Sitanggang",
+    "email": "18022011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022012",
+    "name": "Reza Apriatna",
+    "email": "18022012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022013",
+    "name": "Muhammad Adib Al Ghifari",
+    "email": "18022013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022014",
+    "name": "Muhammad Rizkyansyah",
+    "email": "18022014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022015",
+    "name": "A.A. Radheya Seva Marthariyana",
+    "email": "18022015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022016",
+    "name": "Rafid Fadhila",
+    "email": "18022016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022017",
+    "name": "Rufina Nafisah Darwis",
+    "email": "18022017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022018",
+    "name": "Akhmad Aditya Yusuf",
+    "email": "18022018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022019",
+    "name": "Abdullah Ahmad Karimov",
+    "email": "18022019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022020",
+    "name": "Shafar Zidan Nugraha",
+    "email": "18022020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022021",
+    "name": "Adhitya Samudra Nugraha",
+    "email": "18022021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022022",
+    "name": "Rizal Zhafif Utama",
+    "email": "18022022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022023",
+    "name": "Kayla Nasywa Vilia",
+    "email": "18022023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022024",
+    "name": "Gymnastiar Ilham Fikriansyah",
+    "email": "18022024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022025",
+    "name": "Roni Septian",
+    "email": "18022025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022026",
+    "name": "Reyhan Effendi",
+    "email": "18022026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022027",
+    "name": "Hilary Evelyn Tjandra",
+    "email": "18022027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022028",
+    "name": "Reiko Radinka Leonardo Tambunan",
+    "email": "18022028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022029",
+    "name": "Ryan Suryaputra Adiwidodo",
+    "email": "18022029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022030",
+    "name": "Marcelinus Aryo Wicaksono",
+    "email": "18022030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022031",
+    "name": "Natanael Christanto Pangaribuan",
+    "email": "18022031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022032",
+    "name": "Cristop Tri Natanael",
+    "email": "18022032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022033",
+    "name": "Tsaqif Fataher Rizky",
+    "email": "18022033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022034",
+    "name": "Yehuda Pasaribu",
+    "email": "18022034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022035",
+    "name": "Adnein Hasna Al - Achyar",
+    "email": "18022035@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022036",
+    "name": "Irfansyah Abiyu Tamir",
+    "email": "18022036@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022037",
+    "name": "Intan Nuraini Ciptaning",
+    "email": "18022037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022038",
+    "name": "Febi Nur Sabrina",
+    "email": "18022038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022039",
+    "name": "Raffa Andhika Ilham",
+    "email": "18022039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022040",
+    "name": "Wahyudi",
+    "email": "18022040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022041",
+    "name": "Moses Yohanes Darryl Hutapea",
+    "email": "18022041@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022042",
+    "name": "Ridwan Fauzan Dhoifullah",
+    "email": "18022042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022043",
+    "name": "Mikhael Abhiseka Pramono",
+    "email": "18022043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022044",
+    "name": "Mohammad Faiz Satrio Hanif",
+    "email": "18022044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022046",
+    "name": "Elsya Kusuma",
+    "email": "18022046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022047",
+    "name": "Talitha Nadhifa Andhana",
+    "email": "18022047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022048",
+    "name": "Vallery Anthonio Raditya",
+    "email": "18022048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022049",
+    "name": "Raissa Micah Bodhianto",
+    "email": "18022049@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022050",
+    "name": "Muhammad Farras Athallah",
+    "email": "18022050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022051",
+    "name": "In Excelsis Deo Ompusunggu",
+    "email": "18022051@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022052",
+    "name": "Sarahusna",
+    "email": "18022052@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18022054",
+    "name": "Benny Christiano",
+    "email": "18022054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320026",
+    "name": "Haura Raihanah Haminullah",
+    "email": "18320026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322001",
+    "name": "M. Faddel Tonralipu Irham",
+    "email": "18322001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322003",
+    "name": "Hafidz Yasifa Patty",
+    "email": "18322003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322004",
+    "name": "Prajnagastya Adhyatmika",
+    "email": "18322004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322005",
+    "name": "Amelia Dina Savitri",
+    "email": "18322005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322006",
+    "name": "Ronaldo",
+    "email": "18322006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322007",
+    "name": "Pradigta Hisyam Ramadhan",
+    "email": "18322007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322008",
+    "name": "Yustinus Miki Prayoga Hernanto",
+    "email": "18322008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322009",
+    "name": "Audrey Ahzab",
+    "email": "18322009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322010",
+    "name": "Kanzha Haiqa Arsytya",
+    "email": "18322010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322011",
+    "name": "Dewi Syafitri Syarifah",
+    "email": "18322011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322012",
+    "name": "Mutia Nurfadilah",
+    "email": "18322012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322014",
+    "name": "Jauzaa Aliya Adriansyah",
+    "email": "18322014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322015",
+    "name": "Laura Anggelina Sha'ad",
+    "email": "18322015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322016",
+    "name": "Muhamad Ali ibrahim Al Hariri",
+    "email": "18322016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322017",
+    "name": "Muhammad Zaki Fazansyah",
+    "email": "18322017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322018",
+    "name": "Andika Rama Ardhi Nugraha",
+    "email": "18322018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322019",
+    "name": "Yazid Nur Hidayat",
+    "email": "18322019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322020",
+    "name": "Requint Nurliawan",
+    "email": "18322020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322021",
+    "name": "Muhammad Rafi Ar-Rantisi",
+    "email": "18322021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322022",
+    "name": "Mayesa Adhisty",
+    "email": "18322022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322023",
+    "name": "Musthafa Ibrahim",
+    "email": "18322023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322024",
+    "name": "Andrew",
+    "email": "18322024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322025",
+    "name": "Nurbaedah Awaliyah",
+    "email": "18322025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322027",
+    "name": "Fransiska Fernanda",
+    "email": "18322027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322028",
+    "name": "Lianna Grace Hana Margareta",
+    "email": "18322028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18322029",
+    "name": "Avila Axel Mulyadi",
+    "email": "18322029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13222108",
+    "name": "Muchammad Hardhiaz Maulana P.",
+    "email": "13222108@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221005",
+    "name": "Joshua Tiroy Lumbantobing",
+    "email": "13221005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221025",
+    "name": "Nabilah Qanitah",
+    "email": "13221025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221028",
+    "name": "Zaahirah Attamimi",
+    "email": "13221028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221038",
+    "name": "Fahia Ali Anwari",
+    "email": "13221038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221039",
+    "name": "Taufiq Hidayat",
+    "email": "13221039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221044",
+    "name": "Arif Firman fadhilah",
+    "email": "13221044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221045",
+    "name": "Muhamad Fikri",
+    "email": "13221045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221046",
+    "name": "Arkan Dzaky Raihan Noor",
+    "email": "13221046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221048",
+    "name": "Putu Aditya Wiradarma",
+    "email": "13221048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221050",
+    "name": "Simbolon, Patrick Vyto Pardamean",
+    "email": "13221050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221052",
+    "name": "Shafira Rahmania Adi Cahyani",
+    "email": "13221052@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221053",
+    "name": "Raymond As Mikhael Hutabarat",
+    "email": "13221053@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221071",
+    "name": "Abbel Jatmiko",
+    "email": "13221071@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221082",
+    "name": "Raditya Anggara Nurrahman Santoso",
+    "email": "13221082@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13221090",
+    "name": "Mutiara Arafah Sihombing",
+    "email": "13221090@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18021006",
+    "name": "Muhammad Athaya Al Majid",
+    "email": "18021006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18021008",
+    "name": "sergie akhifa naditia",
+    "email": "18021008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18021009",
+    "name": "Fahmi Fahrizal Fauzi",
+    "email": "18021009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18021013",
+    "name": "Hans Forbes Kurniadi",
+    "email": "18021013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18321001",
+    "name": "Ang, Johan Nicholas",
+    "email": "18321001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18321003",
+    "name": "Nuha Muhammad Yahya",
+    "email": "18321003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18321004",
+    "name": "Aliya Shafa Imani",
+    "email": "18321004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18321009",
+    "name": "Muhammad Rafli",
+    "email": "18321009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18321012",
+    "name": "Aliya Marzooqa Husnaturrasheeda",
+    "email": "18321012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18321015",
+    "name": "Noor Nisa Fayyaza",
+    "email": "18321015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18321019",
+    "name": "Muhammad Farrell Astrada Azhar",
+    "email": "18321019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18321021",
+    "name": "Muhammad Ridwan Adrian",
+    "email": "18321021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220004",
+    "name": "Audrey Nissi",
+    "email": "13220004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220006",
+    "name": "Bintang Moralino Cerdasa",
+    "email": "13220006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220017",
+    "name": "Muhammad Zaky Hermawan",
+    "email": "13220017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220022",
+    "name": "Nur Hidayatulloh Wiyoso",
+    "email": "13220022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220025",
+    "name": "Muhammad Al-Faaris",
+    "email": "13220025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220033",
+    "name": "Ahmad Aziz",
+    "email": "13220033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220034",
+    "name": "Muhammad Rafli Fadilah Yusmar",
+    "email": "13220034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220037",
+    "name": "Yusuf Hafizh Sofwan",
+    "email": "13220037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220040",
+    "name": "Dion Timotius Daeli",
+    "email": "13220040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220045",
+    "name": "Hezli Luga Waluyo S",
+    "email": "13220045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13220046",
+    "name": "Arghya Shafa Susanto",
+    "email": "13220046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18020001",
+    "name": "Rafael Octavius",
+    "email": "18020001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18020009",
+    "name": "Johan Adrian Tapilatu",
+    "email": "18020009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18020012",
+    "name": "Nurazizah Rizkiana Marali",
+    "email": "18020012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320002",
+    "name": "Nabila Primadiya Rahmawati",
+    "email": "18320002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320004",
+    "name": "Maheswara Apta Adiyatma",
+    "email": "18320004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320005",
+    "name": "Nicholas Manuel Tjahjadi",
+    "email": "18320005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320012",
+    "name": "Muhammad Hidayatulloh",
+    "email": "18320012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320013",
+    "name": "Tanya Nuhaisy Wulandari",
+    "email": "18320013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320017",
+    "name": "Fildzah Ishmah Khairunnisa",
+    "email": "18320017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320018",
+    "name": "Muhammad Akmal Ibrahim Taufik",
+    "email": "18320018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320026",
+    "name": "Gisella Natalia",
+    "email": "18320026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320028",
+    "name": "Andrew Timothy Tanari",
+    "email": "18320028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320029",
+    "name": "Christopher Chandra",
+    "email": "18320029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320033",
+    "name": "Deovie Lentera Hikmatullah",
+    "email": "18320033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320037",
+    "name": "Reina Puteri Ramadhani",
+    "email": "18320037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320039",
+    "name": "Putri Alfiyyahdianti",
+    "email": "18320039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18320041",
+    "name": "Wifal Inola",
+    "email": "18320041@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219002",
+    "name": "Vaghan Muhammad Sumadiredja",
+    "email": "13219002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219003",
+    "name": "Christian Reivan",
+    "email": "13219003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219005",
+    "name": "Muhammad Jibril Kashani Zhillan",
+    "email": "13219005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219008",
+    "name": "Felix Eduardo Sihaloho",
+    "email": "13219008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219015",
+    "name": "Muhammad Ali",
+    "email": "13219015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219017",
+    "name": "Richmond Aldous Kosasih",
+    "email": "13219017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219019",
+    "name": "Faris Jabar Nugrahadi",
+    "email": "13219019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219020",
+    "name": "Rafli Fikri Amanda",
+    "email": "13219020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219040",
+    "name": "Ikbar 'Allaam Faza Prasetya",
+    "email": "13219040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219042",
+    "name": "Aditya Anandita Dharma Putra",
+    "email": "13219042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219043",
+    "name": "Muhammad Ilman Karimurrahman",
+    "email": "13219043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219048",
+    "name": "Christian Vieri",
+    "email": "13219048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219060",
+    "name": "Mohamad Iqbal",
+    "email": "13219060@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219062",
+    "name": "Bagus Seto Bimantoro",
+    "email": "13219062@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219066",
+    "name": "Muhammad Wildan Asyrof",
+    "email": "13219066@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219067",
+    "name": "Reynaldo Averill Adji Putra",
+    "email": "13219067@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13219071",
+    "name": "Fitri Fiana Kurniawati",
+    "email": "13219071@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019002",
+    "name": "Maulina Okta Azri Savitri",
+    "email": "18019002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019007",
+    "name": "Hanif Abdurrahman",
+    "email": "18019007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019009",
+    "name": "Alexius Ricky P.",
+    "email": "18019009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019011",
+    "name": "Stephen Halasson Johannes",
+    "email": "18019011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019014",
+    "name": "Alam Raihan Emir",
+    "email": "18019014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019018",
+    "name": "Rafif Amirulhaq Santosa",
+    "email": "18019018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019020",
+    "name": "Michael Suhendra",
+    "email": "18019020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019022",
+    "name": "Mukti Hasanain",
+    "email": "18019022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019025",
+    "name": "Muhammmad Ayhan Adit Pratama",
+    "email": "18019025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18019031",
+    "name": "Rahmat Yasin",
+    "email": "18019031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319001",
+    "name": "Nadia Fitri Zafira",
+    "email": "18319001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319002",
+    "name": "Fara Gebriani",
+    "email": "18319002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319004",
+    "name": "Nur Mutmainnah Rahim",
+    "email": "18319004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319006",
+    "name": "Nugroho Adiyono Cahyo",
+    "email": "18319006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319007",
+    "name": "Hasbullah Abimanyu Anwar",
+    "email": "18319007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319009",
+    "name": "Alifia Zahratul Ilmi",
+    "email": "18319009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319013",
+    "name": "Astrid Novianti Hasanah",
+    "email": "18319013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319014",
+    "name": "Gregorius Ariyo Kresnadhi",
+    "email": "18319014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319021",
+    "name": "Renanthera Rahmadwiningtyas",
+    "email": "18319021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319023",
+    "name": "Anchelmia Chyntia Hanna Ayulestari",
+    "email": "18319023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319024",
+    "name": "Ines Siti Sarah",
+    "email": "18319024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319026",
+    "name": "Muhammad Alfain Aqlia",
+    "email": "18319026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319033",
+    "name": "Namira Husaimah",
+    "email": "18319033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319039",
+    "name": "Baihaqi Muhammad Syani",
+    "email": "18319039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18319040",
+    "name": "Syors Desember Srefle",
+    "email": "18319040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13218013",
+    "name": "Rafiq Satria Yudha",
+    "email": "13218013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13218027",
+    "name": "Lucas Valentino Nainggolan",
+    "email": "13218027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13218042",
+    "name": "Hadim Aerasda",
+    "email": "13218042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13218050",
+    "name": "Tifany Saulina Nababan",
+    "email": "13218050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13218070",
+    "name": "Muhammad Hifzhuddin Rashif",
+    "email": "13218070@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13218072",
+    "name": "Rizki Habibi Alamsyah",
+    "email": "13218072@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13218080",
+    "name": "Darma Surya Wijaya",
+    "email": "13218080@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018001",
+    "name": "Aulia Ramadhana Alifianda",
+    "email": "18018001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018002",
+    "name": "Moh. Fadhil Ardiansyah",
+    "email": "18018002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018003",
+    "name": "Adella Savira Putri",
+    "email": "18018003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018017",
+    "name": "Muhammad Zaki Darojat",
+    "email": "18018017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018023",
+    "name": "Dendiza Abdillah Prazos",
+    "email": "18018023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018028",
+    "name": "Mohammad Tavif Bicandra",
+    "email": "18018028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018030",
+    "name": "Hapsari Indah Lestary",
+    "email": "18018030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018031",
+    "name": "Janissar Flinsa Abdillah",
+    "email": "18018031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018032",
+    "name": "Jeffrey Aleandro Permana",
+    "email": "18018032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018037",
+    "name": "Marcolino Wijaya",
+    "email": "18018037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018038",
+    "name": "Favian Azmi",
+    "email": "18018038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18018040",
+    "name": "Christy Grace Br Siagian",
+    "email": "18018040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317501",
+    "name": "Amelia Khoirurrahma",
+    "email": "18317501@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318003",
+    "name": "La Ode Muhamad Azhraf",
+    "email": "18318003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318014",
+    "name": "Pradipta Wasundari",
+    "email": "18318014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318017",
+    "name": "Siti Aisyah",
+    "email": "18318017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318019",
+    "name": "Rayhan Aby Imtiyaz",
+    "email": "18318019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318027",
+    "name": "Saif Sulthan Shaleh",
+    "email": "18318027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318032",
+    "name": "Agatha Sandra",
+    "email": "18318032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318034",
+    "name": "Muhammad Azinul Haq",
+    "email": "18318034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318038",
+    "name": "Dzaky Fachrezi",
+    "email": "18318038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318040",
+    "name": "Hesqiva Nadhiyaa Attauriq",
+    "email": "18318040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318041",
+    "name": "Mohamad Alamsyah",
+    "email": "18318041@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318042",
+    "name": "Rifda Almira Firdausi",
+    "email": "18318042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318043",
+    "name": "Matthew Maruli Siahaan",
+    "email": "18318043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318044",
+    "name": "Jonathan Salomo",
+    "email": "18318044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18318045",
+    "name": "Pebry Hariyadi",
+    "email": "18318045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13213009",
+    "name": "Fikri Hasnul",
+    "email": "13213009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13213083",
+    "name": "Markus Rajali",
+    "email": "13213083@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214003",
+    "name": "Johanes Patrick S",
+    "email": "13214003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214013",
+    "name": "Aroma Eka Firnandy",
+    "email": "13214013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214015",
+    "name": "Ahmad Roziyan Hidayat",
+    "email": "13214015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214047",
+    "name": "Muhammad Gilang Akbar",
+    "email": "13214047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214069",
+    "name": "Wiraya Pradnyadaka",
+    "email": "13214069@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214078",
+    "name": "Mufti Prabowo",
+    "email": "13214078@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214082",
+    "name": "Tripamungkas Kartika Adi",
+    "email": "13214082@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214094",
+    "name": "Muhammad Ihsan Hadi",
+    "email": "13214094@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214105",
+    "name": "Dima Abyan Mubari",
+    "email": "13214105@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214120",
+    "name": "Alija Rasyidi Daud",
+    "email": "13214120@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214124",
+    "name": "Ghifari Raka Prihartomo",
+    "email": "13214124@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214128",
+    "name": "Muhammad Zhafran Abd",
+    "email": "13214128@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13214139",
+    "name": "Hafizh Al Fikry",
+    "email": "13214139@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18014044",
+    "name": "Aditya Rizky Maulana",
+    "email": "18014044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215007",
+    "name": "Muhammad Albait Mubaroq",
+    "email": "13215007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215009",
+    "name": "Sarmila Ramadhan",
+    "email": "13215009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215011",
+    "name": "Adrian Cahyadi",
+    "email": "13215011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215012",
+    "name": "Tasha Javinny",
+    "email": "13215012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215026",
+    "name": "Vincent Giovanni",
+    "email": "13215026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215030",
+    "name": "Rifaldhy Anand Caesara",
+    "email": "13215030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215047",
+    "name": "Rifqi Nabil Musyaffa",
+    "email": "13215047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215049",
+    "name": "Chairin Nisa Chalila",
+    "email": "13215049@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215054",
+    "name": "Achmad Fathoni",
+    "email": "13215054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215061",
+    "name": "Finadefisa",
+    "email": "13215061@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215063",
+    "name": "Akbar Bagas Pramantya",
+    "email": "13215063@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215064",
+    "name": "Laurence Hasan",
+    "email": "13215064@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215066",
+    "name": "Naufal Nashirul M",
+    "email": "13215066@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13215070",
+    "name": "Adrianus Yorgen Manurung",
+    "email": "13215070@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18015014",
+    "name": "Syahadatul Hidayat",
+    "email": "18015014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18015021",
+    "name": "Embrin Fernando Pakpahan",
+    "email": "18015021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18015034",
+    "name": "Muhammad Yusreza Irsyan",
+    "email": "18015034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315001",
+    "name": "Nabila Bilqisti Rofiatunnajah",
+    "email": "18315001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315003",
+    "name": "Roziatul Khoiriyah",
+    "email": "18315003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315008",
+    "name": "Rayhan Bintang Abdurrahim",
+    "email": "18315008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315017",
+    "name": "Mesayu Elida Irawati",
+    "email": "18315017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315021",
+    "name": "Nancy Silvia",
+    "email": "18315021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315023",
+    "name": "Akhmad Dyma Habib Syababa",
+    "email": "18315023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315024",
+    "name": "Siti Janatun",
+    "email": "18315024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315027",
+    "name": "Abdul Gani",
+    "email": "18315027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18315033",
+    "name": "Fitrah Azizah",
+    "email": "18315033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216601",
+    "name": "Reza Guleta Matra Hutama",
+    "email": "13216601@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216603",
+    "name": "Nenda Garumby",
+    "email": "13216603@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216604",
+    "name": "Hauzan Adi Wafi",
+    "email": "13216604@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216001",
+    "name": "Naila Fadhilah Fithriah",
+    "email": "13216001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216002",
+    "name": "Flavio Lemuel",
+    "email": "13216002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216003",
+    "name": "Gilbert Jonatan",
+    "email": "13216003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216004",
+    "name": "Kevin Christiansen Marsim",
+    "email": "13216004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216005",
+    "name": "Rhesa Aditya Sugondo",
+    "email": "13216005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216006",
+    "name": "Maurizfa",
+    "email": "13216006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216008",
+    "name": "Adiwena Putra",
+    "email": "13216008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216009",
+    "name": "Muhammad Naufal Thariq",
+    "email": "13216009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216010",
+    "name": "Aditya Febriananda",
+    "email": "13216010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216011",
+    "name": "Udinar Fatahila",
+    "email": "13216011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216012",
+    "name": "Farid Fadhlurrahman E.",
+    "email": "13216012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216013",
+    "name": "Mikael Wahyu Diantama",
+    "email": "13216013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216014",
+    "name": "Ellert Bryant Prima Widison",
+    "email": "13216014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216015",
+    "name": "Vinaldo Richard",
+    "email": "13216015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216016",
+    "name": "Najmi I T Kertasafari",
+    "email": "13216016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216017",
+    "name": "Kevin Tirta Wijaya",
+    "email": "13216017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216018",
+    "name": "Muhammad Arbi Minanda",
+    "email": "13216018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216019",
+    "name": "Johan Poernomo",
+    "email": "13216019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216020",
+    "name": "Rr Retna Ayu Savitri I",
+    "email": "13216020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216021",
+    "name": "Rifky Renaldi Inanto",
+    "email": "13216021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216022",
+    "name": "Dandy Fabian",
+    "email": "13216022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216023",
+    "name": "Robertsen Putra Sugianto",
+    "email": "13216023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216024",
+    "name": "Angga Yohanes",
+    "email": "13216024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216025",
+    "name": "Josua Muliawan",
+    "email": "13216025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216026",
+    "name": "Berry",
+    "email": "13216026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216027",
+    "name": "Handi Nugroho Setiawan",
+    "email": "13216027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216028",
+    "name": "Rizca Shafira S M",
+    "email": "13216028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216029",
+    "name": "Sri Wahyu Ningsih",
+    "email": "13216029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216030",
+    "name": "Sharly Louisephine",
+    "email": "13216030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216031",
+    "name": "Mohammad Qori Aziz Hakiki",
+    "email": "13216031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216032",
+    "name": "Timothy Sam Nicholson",
+    "email": "13216032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216033",
+    "name": "Targhib Ibrahim",
+    "email": "13216033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216034",
+    "name": "Fadhila Daliana",
+    "email": "13216034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216035",
+    "name": "Marcellino Agung Christyo",
+    "email": "13216035@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216036",
+    "name": "Arthur Jogy Maratur Siburian",
+    "email": "13216036@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216037",
+    "name": "Sandy Gunawan",
+    "email": "13216037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216038",
+    "name": "Edi Wijaya",
+    "email": "13216038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216039",
+    "name": "Muhammad Irfaan Sya'baani",
+    "email": "13216039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216040",
+    "name": "Irvan Maulana",
+    "email": "13216040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216041",
+    "name": "Josephine Ariella",
+    "email": "13216041@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216042",
+    "name": "Jakfar Siddiq",
+    "email": "13216042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216043",
+    "name": "Kevin Kinguantoro",
+    "email": "13216043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216044",
+    "name": "Laurensius Mario Surya",
+    "email": "13216044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216045",
+    "name": "Yedija Messa Sirao Pramudito",
+    "email": "13216045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216046",
+    "name": "Alif Ilham Madani",
+    "email": "13216046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216047",
+    "name": "Yoseph Amadeus Abel Puspodewo",
+    "email": "13216047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216048",
+    "name": "Alsandi S D Ervandame Tarigan",
+    "email": "13216048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216049",
+    "name": "Gabriella Hayley Tanudjaja",
+    "email": "13216049@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216050",
+    "name": "Andrey Purwanto",
+    "email": "13216050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216051",
+    "name": "Sean Steven",
+    "email": "13216051@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216052",
+    "name": "Zefanya Chandra",
+    "email": "13216052@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216053",
+    "name": "Muhammad Fariz Aziz",
+    "email": "13216053@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216054",
+    "name": "Gian Arjuna",
+    "email": "13216054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216055",
+    "name": "Raditya Priyongga",
+    "email": "13216055@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216056",
+    "name": "Ivy Averina",
+    "email": "13216056@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216057",
+    "name": "Isro Syaeful Iman",
+    "email": "13216057@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216058",
+    "name": "Muhamad Falih Akbar",
+    "email": "13216058@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216059",
+    "name": "Alexander Marcelino Krismono",
+    "email": "13216059@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216060",
+    "name": "Angelia Hartono",
+    "email": "13216060@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216061",
+    "name": "Alfie Aulianda",
+    "email": "13216061@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216062",
+    "name": "Muhammad Raihan Aziz",
+    "email": "13216062@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216063",
+    "name": "Muhammad Rafly Arya Putra",
+    "email": "13216063@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216064",
+    "name": "Amaldi Tri Septyanto",
+    "email": "13216064@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216065",
+    "name": "Alvin Tafarrel",
+    "email": "13216065@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216066",
+    "name": "Fienda Amalia Siddi",
+    "email": "13216066@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216067",
+    "name": "Bagas Daliyanto",
+    "email": "13216067@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216068",
+    "name": "Vincent",
+    "email": "13216068@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216069",
+    "name": "Muhammad Qadrin Syira",
+    "email": "13216069@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216070",
+    "name": "Khudzaifah Bin Zahid",
+    "email": "13216070@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216072",
+    "name": "Muhammad Rifqi Ariq Prabaswara",
+    "email": "13216072@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216073",
+    "name": "Tobi Fragma Satria",
+    "email": "13216073@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216074",
+    "name": "Muhammad Afif Ramadhan",
+    "email": "13216074@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216075",
+    "name": "Sahansyah Fadlurrahman",
+    "email": "13216075@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216076",
+    "name": "Yohanes Raditya",
+    "email": "13216076@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216077",
+    "name": "Tasya Pruwita Candra Dewi",
+    "email": "13216077@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216078",
+    "name": "Arba Robbani",
+    "email": "13216078@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216079",
+    "name": "Gabrielle Shay Artiawan",
+    "email": "13216079@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216080",
+    "name": "Ibrahim Fadhil Djauhari",
+    "email": "13216080@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216081",
+    "name": "Moh Dimas Yoga Pratama",
+    "email": "13216081@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216082",
+    "name": "Hisyam Fuady Siregar",
+    "email": "13216082@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216083",
+    "name": "Kent Nathaniel Firmansyah",
+    "email": "13216083@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216084",
+    "name": "Muhammad Rizqi Nauval Afif",
+    "email": "13216084@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216085",
+    "name": "Salsabila Nadhifah",
+    "email": "13216085@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216087",
+    "name": "Martinus Davin Herell",
+    "email": "13216087@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216088",
+    "name": "Andi Hendra Putra Ganesha",
+    "email": "13216088@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216089",
+    "name": "Immanuel Hardjo",
+    "email": "13216089@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216090",
+    "name": "Gusti Triandi Winata",
+    "email": "13216090@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216091",
+    "name": "Bayu Aji Hamengku Rahmad",
+    "email": "13216091@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216092",
+    "name": "Nicholas Nathanael",
+    "email": "13216092@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216093",
+    "name": "Tobias Andy Rusman",
+    "email": "13216093@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216094",
+    "name": "Agha Maretha",
+    "email": "13216094@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216095",
+    "name": "Thariq Ramadhan Alchandra Yasr",
+    "email": "13216095@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216096",
+    "name": "Muhammad Choirudin Malik",
+    "email": "13216096@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216097",
+    "name": "Muhammad Farras Muwaffaq Lihub",
+    "email": "13216097@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216098",
+    "name": "Sarah Az Zahra",
+    "email": "13216098@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216099",
+    "name": "Ahmad Naufal Ikromi",
+    "email": "13216099@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216100",
+    "name": "Luqman Yusuf Bharoto",
+    "email": "13216100@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216101",
+    "name": "Moch Amin Rizsa Ramadhan",
+    "email": "13216101@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216102",
+    "name": "Rauf Abror Pramudyana",
+    "email": "13216102@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216103",
+    "name": "Kong Kevin",
+    "email": "13216103@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216104",
+    "name": "Jason William Setiawan",
+    "email": "13216104@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216105",
+    "name": "Putri Ratu Dwi Asmaya",
+    "email": "13216105@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216106",
+    "name": "Ardiyanto Hidayat",
+    "email": "13216106@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216107",
+    "name": "Didi Setiawan",
+    "email": "13216107@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216108",
+    "name": "Cheryl Josephine Ovani",
+    "email": "13216108@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216109",
+    "name": "I Nengah Widhiadnyana",
+    "email": "13216109@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216110",
+    "name": "Dyandra Ayu Anindya",
+    "email": "13216110@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216111",
+    "name": "Richard Chandra",
+    "email": "13216111@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216112",
+    "name": "Blestro Bellarmino Hutabalian",
+    "email": "13216112@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216113",
+    "name": "Muhamad Alfarisy",
+    "email": "13216113@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216114",
+    "name": "Vincent Oktavian Kaulika",
+    "email": "13216114@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13216115",
+    "name": "Muhammad Fajar Fadilah",
+    "email": "13216115@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016001",
+    "name": "Claysius Dewanata",
+    "email": "18016001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016002",
+    "name": "Zakka Izzatur Rahman Noor",
+    "email": "18016002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016003",
+    "name": "Lintang Gilang Andika",
+    "email": "18016003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016004",
+    "name": "Alvin Putra Sisdwinugraha",
+    "email": "18016004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016005",
+    "name": "Yoshiro Bimaputra Fathurahman",
+    "email": "18016005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016006",
+    "name": "Anand Bannet Ganesen",
+    "email": "18016006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016007",
+    "name": "Aditya Dwi Hartanto",
+    "email": "18016007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016008",
+    "name": "Aldi Yose Lasinov",
+    "email": "18016008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016009",
+    "name": "Harso Adjie Brotosukmono",
+    "email": "18016009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016010",
+    "name": "Anhar Ibrahim Safruddin",
+    "email": "18016010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016011",
+    "name": "Jeremy Maringan Tua Napitupulu",
+    "email": "18016011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016012",
+    "name": "Satria Fandyardi Rizky",
+    "email": "18016012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016013",
+    "name": "Anugrah Pratama",
+    "email": "18016013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016014",
+    "name": "Muhammad Azka",
+    "email": "18016014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016015",
+    "name": "Muhammad Mushthofa Musyasy",
+    "email": "18016015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016016",
+    "name": "Fahri Kusuma Nugraha",
+    "email": "18016016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016017",
+    "name": "Muhamad Imannulhakim",
+    "email": "18016017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016018",
+    "name": "Kevin Vicario Aritonang",
+    "email": "18016018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016019",
+    "name": "Harits Muhammad Setyaman",
+    "email": "18016019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016020",
+    "name": "Ravendo Sitorus",
+    "email": "18016020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016021",
+    "name": "Julian Rifky Santika",
+    "email": "18016021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016022",
+    "name": "Ardy Gamawanto",
+    "email": "18016022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016023",
+    "name": "Nuel Yosia",
+    "email": "18016023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016024",
+    "name": "Stacia Janice",
+    "email": "18016024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016025",
+    "name": "M Rivandi Fadli",
+    "email": "18016025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016026",
+    "name": "Juligo Al Paraby Saragih",
+    "email": "18016026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016027",
+    "name": "Syadila Refiasto",
+    "email": "18016027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016028",
+    "name": "Farhan Hafiz Budisatrio",
+    "email": "18016028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016029",
+    "name": "Fairiza Hannabila",
+    "email": "18016029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016030",
+    "name": "Gifari I Hasyim",
+    "email": "18016030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016031",
+    "name": "Muhammad Dzaky Farhan",
+    "email": "18016031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016032",
+    "name": "Amirah Ayu Mudhiah Fahren",
+    "email": "18016032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18016033",
+    "name": "Komang Arya Attyla Kepakisan",
+    "email": "18016033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316001",
+    "name": "Fathiya Rahma",
+    "email": "18316001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316002",
+    "name": "Rahma Rizky Alifia",
+    "email": "18316002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316003",
+    "name": "Tessya Rismonita",
+    "email": "18316003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316004",
+    "name": "Ivana Febri Setiarani",
+    "email": "18316004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316005",
+    "name": "Ulfa Hamida",
+    "email": "18316005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316006",
+    "name": "Lugita Analia Risanty R",
+    "email": "18316006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316007",
+    "name": "Ahmad Rasyid A",
+    "email": "18316007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316008",
+    "name": "Nadia Hasanah",
+    "email": "18316008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316009",
+    "name": "Indah Ayu Permatasari",
+    "email": "18316009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316010",
+    "name": "Steven Sean Surjadi",
+    "email": "18316010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316011",
+    "name": "Vincent Alfianto",
+    "email": "18316011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316012",
+    "name": "Djati Anwar Sadad",
+    "email": "18316012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316013",
+    "name": "Gusna Naufal Taris",
+    "email": "18316013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316014",
+    "name": "Nathanael Romora Partigor",
+    "email": "18316014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316015",
+    "name": "Rizky Amira",
+    "email": "18316015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316016",
+    "name": "Angelica Irene Christiani",
+    "email": "18316016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316017",
+    "name": "Silvia Alvinia",
+    "email": "18316017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316018",
+    "name": "Amanda Cita Clasica",
+    "email": "18316018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316019",
+    "name": "Lionel Valdarant",
+    "email": "18316019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316020",
+    "name": "Vincent Lukito",
+    "email": "18316020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316021",
+    "name": "Elzania Prima Dewi",
+    "email": "18316021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316022",
+    "name": "Andi Annisa Salsabila Imran Ka",
+    "email": "18316022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316023",
+    "name": "Devi Tara Avalokita",
+    "email": "18316023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316024",
+    "name": "Alwan Abdurrafi",
+    "email": "18316024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316025",
+    "name": "Gabriel Dicky Andrianto",
+    "email": "18316025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316027",
+    "name": "Iftika Rahmi Fakhrunnisa",
+    "email": "18316027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316029",
+    "name": "Dewanti Sholihat Geavonny",
+    "email": "18316029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316030",
+    "name": "Patricia Margaretha Purwandari",
+    "email": "18316030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316031",
+    "name": "Shidqie Taufiqurrahman",
+    "email": "18316031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316032",
+    "name": "Nadia Azka Huda Prastiwi",
+    "email": "18316032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18316033",
+    "name": "Hans Lodewik Purba",
+    "email": "18316033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217001",
+    "name": "Ferdinand Yapin",
+    "email": "13217001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217002",
+    "name": "Rhesa Muhammad Ramadhan",
+    "email": "13217002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217003",
+    "name": "Rebecca Viona Saisio",
+    "email": "13217003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217004",
+    "name": "Hafizha Novianingrum",
+    "email": "13217004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217005",
+    "name": "Johannes Felix Rimbun",
+    "email": "13217005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217006",
+    "name": "Yunus Adu",
+    "email": "13217006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217007",
+    "name": "Daffa Zaidan Nabil",
+    "email": "13217007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217008",
+    "name": "Aghnia Faza",
+    "email": "13217008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217009",
+    "name": "Ridhwan Athallah Wicaksono",
+    "email": "13217009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217010",
+    "name": "Muhammad Sulthon Faiturrahman",
+    "email": "13217010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217011",
+    "name": "Naila Amani",
+    "email": "13217011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217012",
+    "name": "Puji Valen Crisgar",
+    "email": "13217012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217013",
+    "name": "Faisa Fawwaz Fauzan",
+    "email": "13217013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217014",
+    "name": "Rafif Rahman Darmawan",
+    "email": "13217014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217015",
+    "name": "Gede Satya Adi Dharma",
+    "email": "13217015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217016",
+    "name": "Fauzan Ragitya Anggaraksa",
+    "email": "13217016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217017",
+    "name": "Ryan Dharma Chandra",
+    "email": "13217017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217018",
+    "name": "Kevin Fardhana Anneti",
+    "email": "13217018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217019",
+    "name": "Muhammad Iqbal Akbari",
+    "email": "13217019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217020",
+    "name": "Meinanto Tri Yuriawan",
+    "email": "13217020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217021",
+    "name": "Nurhayati Marqoh Sirfefa",
+    "email": "13217021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217022",
+    "name": "Edward Exaudi Dohara Siahaan",
+    "email": "13217022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217023",
+    "name": "Wuri Utami",
+    "email": "13217023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217024",
+    "name": "Isa Maulana",
+    "email": "13217024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217025",
+    "name": "Christofel Rio Goenawan",
+    "email": "13217025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217026",
+    "name": "Patrick Ryan Wijaya",
+    "email": "13217026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217027",
+    "name": "Muchammad Abduh Nur Wisisono",
+    "email": "13217027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217028",
+    "name": "Dina Safirah",
+    "email": "13217028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217029",
+    "name": "Hillary Christine R",
+    "email": "13217029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217030",
+    "name": "Christian Justin",
+    "email": "13217030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217031",
+    "name": "Adrian Febrianta Sembiring",
+    "email": "13217031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217032",
+    "name": "Fikki Maulana Aulia Siswanto",
+    "email": "13217032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217033",
+    "name": "Akmal Narendra Sakti",
+    "email": "13217033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217034",
+    "name": "I Wayan Galang Wedana",
+    "email": "13217034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217035",
+    "name": "Ignasius Irvan",
+    "email": "13217035@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217036",
+    "name": "Anindyo Putra Hadindra S.",
+    "email": "13217036@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217037",
+    "name": "Gihon Marten Tumbelaka",
+    "email": "13217037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217038",
+    "name": "Diotama Wijaya",
+    "email": "13217038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217039",
+    "name": "Fauzan Rozin",
+    "email": "13217039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217040",
+    "name": "Derwin Juanda",
+    "email": "13217040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217042",
+    "name": "Fatimah Husna Salsabila",
+    "email": "13217042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217043",
+    "name": "Audric Kristo K. Saragih",
+    "email": "13217043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217044",
+    "name": "Cynthia Evani",
+    "email": "13217044@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217045",
+    "name": "Khalifah Lazuardi Firmansyah",
+    "email": "13217045@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217046",
+    "name": "Muhammad Fatkhi",
+    "email": "13217046@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217047",
+    "name": "Ryan Dritama",
+    "email": "13217047@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217048",
+    "name": "George Stevenson Mustaine",
+    "email": "13217048@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217049",
+    "name": "Muhammad Naufal Abid",
+    "email": "13217049@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217050",
+    "name": "Muhammad Iqbal Fauzan Aulia",
+    "email": "13217050@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217051",
+    "name": "Giovanni Philip Santoso",
+    "email": "13217051@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217052",
+    "name": "Andi Muhammad Riyadhus Ilmy",
+    "email": "13217052@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217053",
+    "name": "Rizky Ardi Maulana",
+    "email": "13217053@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217054",
+    "name": "Muhammad Adhitya Dharmawan",
+    "email": "13217054@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217055",
+    "name": "David Khowanto",
+    "email": "13217055@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217056",
+    "name": "Evan Roberts Tantono",
+    "email": "13217056@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217057",
+    "name": "Hamdani Fadhli",
+    "email": "13217057@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217058",
+    "name": "Abdurrahman Habibie",
+    "email": "13217058@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217059",
+    "name": "Edita Rosanna Tampubolon",
+    "email": "13217059@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217060",
+    "name": "Devananda",
+    "email": "13217060@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217061",
+    "name": "Moh. Tamamul Firdaus",
+    "email": "13217061@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217062",
+    "name": "Tyfan Juliano Hioesman",
+    "email": "13217062@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217063",
+    "name": "Hansen Devin Hotama",
+    "email": "13217063@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217064",
+    "name": "Felicia Albertha",
+    "email": "13217064@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217065",
+    "name": "Hans Jeremia",
+    "email": "13217065@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217066",
+    "name": "Habli Yahdi",
+    "email": "13217066@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217067",
+    "name": "Elizabeth K. Dhea Prianganitha",
+    "email": "13217067@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217068",
+    "name": "Friendi Sofyan",
+    "email": "13217068@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217069",
+    "name": "Ardian Sudarsono",
+    "email": "13217069@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217070",
+    "name": "Wilfrid Azariah",
+    "email": "13217070@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217071",
+    "name": "Louis",
+    "email": "13217071@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217072",
+    "name": "Brainovzky D. P. Saragih",
+    "email": "13217072@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217073",
+    "name": "Muhammad Nadhif Farizi",
+    "email": "13217073@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217074",
+    "name": "Gomos Parulian Manalu",
+    "email": "13217074@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217075",
+    "name": "Arief Hirmanto",
+    "email": "13217075@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217076",
+    "name": "Ediko Raymond Silalahi",
+    "email": "13217076@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217077",
+    "name": "Erson Rasyadan",
+    "email": "13217077@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217078",
+    "name": "Lisa Margaretta Simarmata",
+    "email": "13217078@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217079",
+    "name": "Yoga Putera",
+    "email": "13217079@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217080",
+    "name": "Raden Rafi Sageri",
+    "email": "13217080@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217081",
+    "name": "Marcell Djona Farel Pakpahan",
+    "email": "13217081@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217082",
+    "name": "Anugrah Wamobary Lutragiharto",
+    "email": "13217082@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217083",
+    "name": "Muhammad Hanindya Budi Pratama",
+    "email": "13217083@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217084",
+    "name": "Michael Christianto",
+    "email": "13217084@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217085",
+    "name": "Kevin Marhan Cunis",
+    "email": "13217085@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217086",
+    "name": "Minangkara Cinandi Rengga",
+    "email": "13217086@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217087",
+    "name": "Kevin Sutardi",
+    "email": "13217087@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217088",
+    "name": "Frans Jason Rudianto",
+    "email": "13217088@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217089",
+    "name": "Athar Fadlankahlil Alifdhyatra",
+    "email": "13217089@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217090",
+    "name": "M. Yafie Abdillah",
+    "email": "13217090@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "13217091",
+    "name": "Muhammad Hanif Ihsan Syuhada",
+    "email": "13217091@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017001",
+    "name": "Yusron Musa",
+    "email": "18017001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017002",
+    "name": "Devara Izaz Fathan",
+    "email": "18017002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017003",
+    "name": "Fransedo Ravelino",
+    "email": "18017003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017004",
+    "name": "Nafis Salman Brahmantino",
+    "email": "18017004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017005",
+    "name": "Ilham Muliawan Hamzah",
+    "email": "18017005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017006",
+    "name": "Irza Kusuma Ajie",
+    "email": "18017006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017007",
+    "name": "Reiner Nathaniel Jabanto",
+    "email": "18017007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017008",
+    "name": "Ilhamid Daris",
+    "email": "18017008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017009",
+    "name": "Fauzi Handy Dewanto",
+    "email": "18017009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017010",
+    "name": "Akmal Rahman Setiardi",
+    "email": "18017010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017011",
+    "name": "Adjie Bagaskara",
+    "email": "18017011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017012",
+    "name": "Teuku Ade Farhan Ramadhana",
+    "email": "18017012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017013",
+    "name": "Muhammad Rizal Fabio",
+    "email": "18017013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017014",
+    "name": "Hendry Priyono",
+    "email": "18017014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017015",
+    "name": "Naqita Ramadhani",
+    "email": "18017015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017017",
+    "name": "Raeshad Parandangi",
+    "email": "18017017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017018",
+    "name": "Muhammad Farhan Sidabalok",
+    "email": "18017018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017019",
+    "name": "Ikhwan Wiranata",
+    "email": "18017019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017020",
+    "name": "Muhammad Rafie",
+    "email": "18017020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017021",
+    "name": "Muhammad Fathur Majid",
+    "email": "18017021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017022",
+    "name": "Shafa Nabilla Haya",
+    "email": "18017022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017023",
+    "name": "Abdan Alim Ulwan Faiz",
+    "email": "18017023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017024",
+    "name": "Nazra Anandu",
+    "email": "18017024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017025",
+    "name": "Ariel Generanta I.K.",
+    "email": "18017025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017026",
+    "name": "Bastian Wibisana T. Silangit",
+    "email": "18017026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017027",
+    "name": "Sausan Akhmad Bafagih",
+    "email": "18017027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017028",
+    "name": "Mawla Ahmad",
+    "email": "18017028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017029",
+    "name": "Josiah Jectofer Meka",
+    "email": "18017029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017030",
+    "name": "Iqbal Aditya",
+    "email": "18017030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017031",
+    "name": "Lukas Antonio Budiwicaksana",
+    "email": "18017031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017032",
+    "name": "Muh. Qadri",
+    "email": "18017032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017033",
+    "name": "Fatima Ulya Salmiya",
+    "email": "18017033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017034",
+    "name": "Talo Erland Yeshua Riwu Kaho",
+    "email": "18017034@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017035",
+    "name": "Raihan Fauzan",
+    "email": "18017035@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017036",
+    "name": "Handika Putra Amanda",
+    "email": "18017036@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017037",
+    "name": "Rizki Khairi",
+    "email": "18017037@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017038",
+    "name": "Adib Akbar Jaelani",
+    "email": "18017038@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017039",
+    "name": "Primanta Holand Bangun",
+    "email": "18017039@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017040",
+    "name": "Falah Kharisma Nuraziz",
+    "email": "18017040@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017041",
+    "name": "Fauzan Khusnarrofi'",
+    "email": "18017041@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017042",
+    "name": "Denilson Herlambang",
+    "email": "18017042@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18017043",
+    "name": "Lulu Firdaus",
+    "email": "18017043@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317001",
+    "name": "Syifa Hasanah",
+    "email": "18317001@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317002",
+    "name": "Afif Hanidar Ma'ruf",
+    "email": "18317002@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317003",
+    "name": "Michaella Yosephine",
+    "email": "18317003@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317004",
+    "name": "Rafita Erli Adhawiyah",
+    "email": "18317004@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317005",
+    "name": "Yasmin Salsabila Kurniawan",
+    "email": "18317005@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317006",
+    "name": "Rey Ezra",
+    "email": "18317006@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317007",
+    "name": "Ramadhita Umitaibatin",
+    "email": "18317007@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317008",
+    "name": "Muhammad Harun Alrasyid",
+    "email": "18317008@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317009",
+    "name": "Hanina Nuralifa Zahra",
+    "email": "18317009@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317010",
+    "name": "Hofifa Mulya Utami",
+    "email": "18317010@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317011",
+    "name": "Hasna Nadila",
+    "email": "18317011@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317012",
+    "name": "Muhammad Rashid Kurniawan",
+    "email": "18317012@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317013",
+    "name": "Yunianti Khotimah",
+    "email": "18317013@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317014",
+    "name": "Antonius Eko Nugroho",
+    "email": "18317014@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317015",
+    "name": "Resfyanti Nur Azizah",
+    "email": "18317015@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317016",
+    "name": "Hafizh Rahmatdianto Yusuf",
+    "email": "18317016@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317017",
+    "name": "Ammar",
+    "email": "18317017@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317018",
+    "name": "Irfan Tito Kurniawan",
+    "email": "18317018@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317019",
+    "name": "Fadhil Mushthafa",
+    "email": "18317019@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317020",
+    "name": "Mahendra Baleno Rama",
+    "email": "18317020@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317021",
+    "name": "Nurafifah Fikriastuti",
+    "email": "18317021@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317022",
+    "name": "Ahmad Syafiq Naufal Abid",
+    "email": "18317022@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317023",
+    "name": "Rahma Safira Amelia",
+    "email": "18317023@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317024",
+    "name": "Mutia Oktaviani",
+    "email": "18317024@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317025",
+    "name": "Aminul Solihin",
+    "email": "18317025@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317026",
+    "name": "Muhammad Fadhil Syahad",
+    "email": "18317026@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317027",
+    "name": "Anas Nafis Al Mustofa",
+    "email": "18317027@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317028",
+    "name": "Ivandy Arifin Putra Noerrizky",
+    "email": "18317028@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317029",
+    "name": "Regina Katelia",
+    "email": "18317029@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317030",
+    "name": "Ghani Faliq Mufiddin",
+    "email": "18317030@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317031",
+    "name": "Joshua Adi Chandra",
+    "email": "18317031@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317032",
+    "name": "Vegi Faturrahman",
+    "email": "18317032@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317033",
+    "name": "Azka Raina Anka",
+    "email": "18317033@mahasiswa.itb.ac.id"
+  },
+  {
+    "nim": "18317034",
+    "name": "Michael Tiroi",
+    "email": "18317034@mahasiswa.itb.ac.id"
   }
 ]
