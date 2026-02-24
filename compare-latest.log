@@ -1,0 +1,12 @@
+📊 voters.csv       : 996 rows
+📊 voters_export.csv: 996 rows
+
+================================================================================
+❌ NIM ada di voters.csv tapi TIDAK ada di database : 0
+⚠️  NIM sama tapi NAMA berbeda                      : 0
+➕ Ada di database tapi TIDAK ada di voters.csv      : 0
+================================================================================
+
+✅ Semua data cocok! Tidak ada mismatch.
+
+✅ Done.
